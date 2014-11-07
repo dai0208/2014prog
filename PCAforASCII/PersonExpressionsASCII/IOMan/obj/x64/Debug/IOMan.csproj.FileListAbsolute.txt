@@ -1,0 +1,5 @@
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\IOMan\bin\x64\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\IOMan\bin\x64\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\IOMan\bin\x64\Debug\IOMan.XML
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\IOMan\obj\x64\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\IOMan\obj\x64\Debug\IOMan.pdb

@@ -1,0 +1,10 @@
+X:\2014年度\M1\荒井\2014年つくったプログラム\MyRestructure\MyRestructure\obj\Debug\MyRestructure.csprojResolveAssemblyReference.cache
+X:\2014年度\M1\荒井\2014年つくったプログラム\MyRestructure\MyRestructure\bin\Debug\MyRestructure.dll
+X:\2014年度\M1\荒井\2014年つくったプログラム\MyRestructure\MyRestructure\bin\Debug\MyRestructure.pdb
+X:\2014年度\M1\荒井\2014年つくったプログラム\MyRestructure\MyRestructure\bin\Debug\MatrixVector.dll
+X:\2014年度\M1\荒井\2014年つくったプログラム\MyRestructure\MyRestructure\bin\Debug\PointFormat.dll
+X:\2014年度\M1\荒井\2014年つくったプログラム\MyRestructure\MyRestructure\bin\Debug\MatrixVector.pdb
+X:\2014年度\M1\荒井\2014年つくったプログラム\MyRestructure\MyRestructure\bin\Debug\MatrixVector.xml
+X:\2014年度\M1\荒井\2014年つくったプログラム\MyRestructure\MyRestructure\bin\Debug\PointFormat.pdb
+X:\2014年度\M1\荒井\2014年つくったプログラム\MyRestructure\MyRestructure\obj\Debug\MyRestructure.dll
+X:\2014年度\M1\荒井\2014年つくったプログラム\MyRestructure\MyRestructure\obj\Debug\MyRestructure.pdb

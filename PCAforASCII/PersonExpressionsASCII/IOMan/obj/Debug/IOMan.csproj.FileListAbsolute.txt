@@ -1,0 +1,85 @@
+E:\VisualStudioProject\3D_Sampling\IOMan\obj\Debug\ResolveAssemblyReference.cache
+E:\VisualStudioProject\3D_Sampling\IOMan\bin\Debug\IOMan.dll
+E:\VisualStudioProject\3D_Sampling\IOMan\bin\Debug\IOMan.pdb
+E:\VisualStudioProject\3D_Sampling\IOMan\obj\Debug\IOMan.dll
+E:\VisualStudioProject\3D_Sampling\IOMan\obj\Debug\IOMan.pdb
+E:\VisualStudioProject\IOMan\bin\Debug\IOMan.dll
+E:\VisualStudioProject\IOMan\bin\Debug\IOMan.pdb
+E:\VisualStudioProject\IOMan\obj\Debug\ResolveAssemblyReference.cache
+E:\VisualStudioProject\IOMan\obj\Debug\IOMan.dll
+E:\VisualStudioProject\IOMan\obj\Debug\IOMan.pdb
+E:\VisualStudioProject\PCAComplete\IOMan\bin\Debug\IOMan.dll
+E:\VisualStudioProject\PCAComplete\IOMan\bin\Debug\IOMan.pdb
+E:\VisualStudioProject\PCAComplete\IOMan\obj\Debug\ResolveAssemblyReference.cache
+E:\VisualStudioProject\PCAComplete\IOMan\obj\Debug\IOMan.dll
+E:\VisualStudioProject\PCAComplete\IOMan\obj\Debug\IOMan.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\IOMan\bin\Debug\IOMan.XML
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\IOMan\bin\Debug\IOMan.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\IOMan\bin\Debug\IOMan.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\IOMan\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\IOMan\obj\Debug\IOMan.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\IOMan\obj\Debug\IOMan.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project\IOMan\bin\Debug\IOMan.dll
+C:\Documents and Settings\shiro\デスクトップ\Project\IOMan\bin\Debug\IOMan.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project\IOMan\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shiro\デスクトップ\Project\IOMan\obj\Debug\IOMan.dll
+C:\Documents and Settings\shiro\デスクトップ\Project\IOMan\obj\Debug\IOMan.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\IOMan\bin\Debug\IOMan.XML
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\IOMan\bin\Debug\IOMan.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\IOMan\bin\Debug\IOMan.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\IOMan\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\IOMan\obj\Debug\IOMan.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\IOMan\obj\Debug\IOMan.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\IOMan\bin\Debug\IOMan.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\IOMan\bin\Debug\IOMan.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\IOMan\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\IOMan\obj\Debug\IOMan.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\IOMan\obj\Debug\IOMan.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\IOMan\bin\Debug\IOMan.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\IOMan\bin\Debug\IOMan.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\IOMan\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\IOMan\obj\Debug\IOMan.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\IOMan\obj\Debug\IOMan.pdb
+\\NEW_TERA\share\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\bin\Debug\IOMan.XML
+\\NEW_TERA\share\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\bin\Debug\IOMan.dll
+\\NEW_TERA\share\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\bin\Debug\IOMan.pdb
+\\NEW_TERA\share\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\obj\Debug\ResolveAssemblyReference.cache
+\\NEW_TERA\share\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\obj\Debug\IOMan.dll
+\\NEW_TERA\share\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\obj\Debug\IOMan.pdb
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\bin\Debug\IOMan.XML
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\bin\Debug\IOMan.dll
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\bin\Debug\IOMan.pdb
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\obj\Debug\ResolveAssemblyReference.cache
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\obj\Debug\IOMan.dll
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\obj\Debug\IOMan.pdb
+\\2ND_TERA\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\bin\Debug\IOMan.dll
+\\2ND_TERA\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\bin\Debug\IOMan.pdb
+\\2ND_TERA\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\obj\Debug\ResolveAssemblyReference.cache
+\\2ND_TERA\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\obj\Debug\IOMan.dll
+\\2ND_TERA\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\IOMan\obj\Debug\IOMan.pdb
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\IOMan\bin\Debug\IOMan.XML
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\IOMan\bin\Debug\IOMan.dll
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\IOMan\bin\Debug\IOMan.pdb
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\IOMan\obj\Debug\ResolveAssemblyReference.cache
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\IOMan\obj\Debug\IOMan.dll
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\IOMan\obj\Debug\IOMan.pdb
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\IOMan\bin\Debug\IOMan.XML
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\IOMan\bin\Debug\IOMan.dll
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\IOMan\bin\Debug\IOMan.pdb
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\IOMan\obj\Debug\IOMan.dll
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\IOMan\obj\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\IOMan\bin\Debug\IOMan.XML
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\IOMan\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\IOMan\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\IOMan\obj\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\IOMan\obj\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\IOMan\bin\Debug\IOMan.XML
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\IOMan\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\IOMan\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\IOMan\obj\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\IOMan\obj\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\IOMan\bin\Debug\IOMan.XML
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\IOMan\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\IOMan\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\IOMan\obj\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\IOMan\obj\Debug\IOMan.pdb

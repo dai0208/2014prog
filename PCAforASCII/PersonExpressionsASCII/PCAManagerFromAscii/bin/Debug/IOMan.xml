@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IOMan</name>
+    </assembly>
+    <members>
+        <member name="T:IOMan.cFileExist">
+            <summary>
+            ファイルの存在チェックを行うクラス
+            </summary>
+        </member>
+        <member name="M:IOMan.cFileExist.bCheckFileExist(System.String)">
+            <summary>
+            ファイルの存在チェックを行い、ファイルが無かった場合はfalseを返します。
+            </summary>
+            <param name="FileName">チェックするファイル名</param>
+            <returns>ファイルがあればtrue、無い場合はfalse</returns>
+        </member>
+        <member name="M:IOMan.cFileExist.vCheckFileExist(System.String)">
+            <summary>
+            ファイルの存在チェックを行い、ファイルが無かった場合は例外を返します。
+            </summary>
+            <param name="FileName">チェックするファイル名</param>
+        </member>
+        <member name="M:IOMan.CreateFileName.AddStringAtEnd(System.String,System.String,System.String)">
+            <summary>
+            ファイルパスの最後に指定された文字列・拡張子を追加します。
+            </summary>
+            <param name="FullPath">ファイルパス</param>
+            <param name="addString">追加する文字列</param>
+            <param name="Extension">拡張子(拡張子前のドットも必要)</param>
+            <returns>追加したファイルパス</returns>
+        </member>
+        <member name="M:IOMan.CreateFileName.AddStringAtEndWithoutExtension(System.String,System.String)">
+            <summary>
+            ファイルパスの最後に指定された文字列を追加します。
+            </summary>
+            <param name="FullPath">ファイルパス</param>
+            <param name="addString">追加する文字列</param>
+            <returns>追加したファイルパス</returns>
+        </member>
+        <member name="M:IOMan.cDirectoryCheck.CheckDirectory(System.String)">
+            <summary>
+            指定したディレクトリが存在しなかった場合は作成するメソッドです。
+            </summary>
+            <param name="CheckDirectoryName">存在をチェックしたいディレクトリ名</param>
+        </member>
+    </members>
+</doc>

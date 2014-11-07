@@ -1,0 +1,5 @@
+c:\users\09x3082\documents\visual studio 2010\Projects\ASC\ASC\bin\Release\ASC.dll
+c:\users\09x3082\documents\visual studio 2010\Projects\ASC\ASC\bin\Release\ASC.pdb
+c:\users\09x3082\documents\visual studio 2010\Projects\ASC\ASC\obj\Release\ResolveAssemblyReference.cache
+c:\users\09x3082\documents\visual studio 2010\Projects\ASC\ASC\obj\Release\ASC.dll
+c:\users\09x3082\documents\visual studio 2010\Projects\ASC\ASC\obj\Release\ASC.pdb

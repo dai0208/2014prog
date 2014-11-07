@@ -1,0 +1,11 @@
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\2ClassSVMUtil\2ClassSVMUtil\bin\Release\2ClassSVMUtil.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\2ClassSVMUtil\2ClassSVMUtil\bin\Release\2ClassSVMUtil.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\2ClassSVMUtil\2ClassSVMUtil\bin\Release\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\2ClassSVMUtil\2ClassSVMUtil\bin\Release\SVM.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\2ClassSVMUtil\2ClassSVMUtil\bin\Release\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\2ClassSVMUtil\2ClassSVMUtil\bin\Release\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\2ClassSVMUtil\2ClassSVMUtil\bin\Release\SVM.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\2ClassSVMUtil\2ClassSVMUtil\bin\Release\SVM.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\2ClassSVMUtil\2ClassSVMUtil\obj\Release\2ClassSVMUtil.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\2ClassSVMUtil\2ClassSVMUtil\obj\Release\2ClassSVMUtil.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\2ClassSVMUtil\2ClassSVMUtil\obj\Release\2ClassSVMUtil.pdb

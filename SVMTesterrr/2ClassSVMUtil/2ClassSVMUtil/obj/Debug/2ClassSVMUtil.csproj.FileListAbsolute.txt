@@ -1,0 +1,43 @@
+C:\Users\yvgqi\documents\visual studio 2010\Projects\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\2ClassSVMUtil.dll
+C:\Users\yvgqi\documents\visual studio 2010\Projects\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\2ClassSVMUtil.pdb
+C:\Users\yvgqi\documents\visual studio 2010\Projects\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.dll
+C:\Users\yvgqi\documents\visual studio 2010\Projects\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.pdb
+C:\Users\yvgqi\documents\visual studio 2010\Projects\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.csprojResolveAssemblyReference.cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.csprojResolveAssemblyReference.cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\2ClassSVMUtil.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\2ClassSVMUtil.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\MatrixVector.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\MatrixVector.xml
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\SVM.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\SVM.xml
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\2ClassSVMUtil.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\2ClassSVMUtil.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\MatrixVector.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\MatrixVector.xml
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\SVM.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\SVM.xml
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\SVM.dll
+X:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\2ClassSVMUtil.dll
+X:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\2ClassSVMUtil.pdb
+X:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\MatrixVector.pdb
+X:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\MatrixVector.xml
+X:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\SVM.pdb
+X:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\SVM.xml
+X:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.csprojResolveAssemblyReference.cache
+X:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.dll
+X:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.csprojResolveAssemblyReference.cache
+G:\SVMTester\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.csprojResolveAssemblyReference.cache
+G:\SVMTester\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.dll
+G:\SVMTester\2ClassSVMUtil\2ClassSVMUtil\obj\Debug\2ClassSVMUtil.pdb
+G:\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\2ClassSVMUtil.dll
+G:\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\2ClassSVMUtil.pdb
+G:\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\SVM.dll
+G:\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\SVM.pdb
+G:\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\SVM.xml
+G:\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\MatrixVector.pdb
+G:\SVMTester\2ClassSVMUtil\2ClassSVMUtil\bin\Debug\MatrixVector.xml

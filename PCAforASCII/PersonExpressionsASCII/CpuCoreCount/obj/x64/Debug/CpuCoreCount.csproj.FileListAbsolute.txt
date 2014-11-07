@@ -1,0 +1,7 @@
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\CpuCoreCount\bin\x64\Debug\CpuCoreCount.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\CpuCoreCount\bin\x64\Debug\CpuCoreCount.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\CpuCoreCount\bin\x64\Debug\NullObject.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\CpuCoreCount\bin\x64\Debug\NullObject.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\CpuCoreCount\obj\x64\Debug\CpuCoreCount.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\CpuCoreCount\obj\x64\Debug\CpuCoreCount.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\CpuCoreCount\obj\x64\Debug\CpuCoreCount.pdb

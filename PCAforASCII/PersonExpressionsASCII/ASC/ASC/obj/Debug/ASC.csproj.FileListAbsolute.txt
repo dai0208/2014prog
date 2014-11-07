@@ -1,0 +1,9 @@
+C:\Users\09x3082\Documents\Visual Studio 2010\Projects\ASC\ASC\bin\Debug\ASC.dll
+C:\Users\09x3082\Documents\Visual Studio 2010\Projects\ASC\ASC\bin\Debug\ASC.pdb
+C:\Users\09x3082\Documents\Visual Studio 2010\Projects\ASC\ASC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\09x3082\Documents\Visual Studio 2010\Projects\ASC\ASC\obj\Debug\ASC.dll
+C:\Users\09x3082\Documents\Visual Studio 2010\Projects\ASC\ASC\obj\Debug\ASC.pdb
+Y:\2013年度\B4\荒井(雄)\主観評定画像生成メニュー（作：荒井）\program\ASC\ASC\bin\Debug\ASC.dll
+Y:\2013年度\B4\荒井(雄)\主観評定画像生成メニュー（作：荒井）\program\ASC\ASC\bin\Debug\ASC.pdb
+Y:\2013年度\B4\荒井(雄)\主観評定画像生成メニュー（作：荒井）\program\ASC\ASC\obj\Debug\ASC.dll
+Y:\2013年度\B4\荒井(雄)\主観評定画像生成メニュー（作：荒井）\program\ASC\ASC\obj\Debug\ASC.pdb

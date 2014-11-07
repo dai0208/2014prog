@@ -1,0 +1,14 @@
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\bin\x64\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\bin\x64\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\bin\x64\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\bin\x64\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\bin\x64\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\bin\x64\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\bin\x64\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\bin\x64\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\obj\x64\Debug\DoPCA.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\obj\x64\Debug\DoPCA.fmLog.resources
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\obj\x64\Debug\DoPCA.fmMain.resources
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\obj\x64\Debug\DoPCA.csproj.GenerateResource.Cache
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\obj\x64\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\DoPCA\obj\x64\Debug\DoPCA.pdb

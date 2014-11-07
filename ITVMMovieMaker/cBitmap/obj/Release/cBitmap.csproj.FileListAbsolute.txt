@@ -1,0 +1,317 @@
+E:\研究室関係\ReStructure2nd\cBitmap\bin\Release\cBitmap.dll
+E:\研究室関係\ReStructure2nd\cBitmap\bin\Release\cBitmap.pdb
+E:\研究室関係\ReStructure2nd\cBitmap\obj\Release\ResolveAssemblyReference.cache
+E:\研究室関係\ReStructure2nd\cBitmap\obj\Release\cBitmap.dll
+E:\研究室関係\ReStructure2nd\cBitmap\obj\Release\cBitmap.pdb
+J:\研究室関係\ReStructure3rd\cBitmap\bin\Release\cBitmap.dll
+J:\研究室関係\ReStructure3rd\cBitmap\bin\Release\cBitmap.pdb
+J:\研究室関係\ReStructure3rd\cBitmap\obj\Release\ResolveAssemblyReference.cache
+J:\研究室関係\ReStructure3rd\cBitmap\obj\Release\cBitmap.dll
+J:\研究室関係\ReStructure3rd\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\shiro\デスクトップ\ReStructure3rd\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\shiro\デスクトップ\ReStructure3rd\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\shiro\デスクトップ\ReStructure3rd\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\shiro\デスクトップ\ReStructure3rd\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\shiro\デスクトップ\ReStructure3rd\cBitmap\obj\Release\cBitmap.pdb
+C:\研究室関係\_プログラム\ReStructure4th\cBitmap\bin\Release\cBitmap.dll
+C:\研究室関係\_プログラム\ReStructure4th\cBitmap\bin\Release\cBitmap.pdb
+C:\研究室関係\_プログラム\ReStructure4th\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\研究室関係\_プログラム\ReStructure4th\cBitmap\obj\Release\cBitmap.dll
+C:\研究室関係\_プログラム\ReStructure4th\cBitmap\obj\Release\cBitmap.pdb
+F:\河内作成プログラム\ResampleErrorIndex\cBitmap\obj\Release\ResolveAssemblyReference.cache
+F:\河内作成プログラム\ResampleErrorIndex\cBitmap\obj\Release\cBitmap.dll
+F:\河内作成プログラム\ResampleErrorIndex\cBitmap\bin\Release\cBitmap.dll
+F:\河内作成プログラム\ResampleErrorIndex\cBitmap\bin\Release\cBitmap.pdb
+F:\河内作成プログラム\ResampleErrorIndex\cBitmap\bin\Release\3DPoint.dll
+F:\河内作成プログラム\ResampleErrorIndex\cBitmap\bin\Release\3DPoint.pdb
+F:\河内作成プログラム\ResampleErrorIndex\cBitmap\obj\Release\cBitmap.pdb
+F:\河内作成プログラム\ErrorIndex\cBitmap\bin\Release\cBitmap.dll
+F:\河内作成プログラム\ErrorIndex\cBitmap\bin\Release\cBitmap.pdb
+F:\河内作成プログラム\ErrorIndex\cBitmap\bin\Release\3DPoint.dll
+F:\河内作成プログラム\ErrorIndex\cBitmap\bin\Release\3DPoint.pdb
+F:\河内作成プログラム\ErrorIndex\cBitmap\obj\Release\ResolveAssemblyReference.cache
+F:\河内作成プログラム\ErrorIndex\cBitmap\obj\Release\cBitmap.dll
+F:\河内作成プログラム\ErrorIndex\cBitmap\obj\Release\cBitmap.pdb
+H:\Project\cBitmap\bin\Release\cBitmap.dll
+H:\Project\cBitmap\bin\Release\cBitmap.pdb
+H:\Project\cBitmap\bin\Release\3DPoint.dll
+H:\Project\cBitmap\bin\Release\3DPoint.pdb
+H:\Project\cBitmap\obj\Release\ResolveAssemblyReference.cache
+H:\Project\cBitmap\obj\Release\cBitmap.dll
+H:\Project\cBitmap\obj\Release\cBitmap.pdb
+F:\Project\cBitmap\bin\Release\cBitmap.dll
+F:\Project\cBitmap\bin\Release\cBitmap.pdb
+F:\Project\cBitmap\bin\Release\3DPoint.dll
+F:\Project\cBitmap\bin\Release\3DPoint.pdb
+F:\Project\cBitmap\obj\Release\ResolveAssemblyReference.cache
+F:\Project\cBitmap\obj\Release\cBitmap.dll
+F:\Project\cBitmap\obj\Release\cBitmap.pdb
+I:\解凍済みデータ\Project\cBitmap\bin\Release\cBitmap.dll
+I:\解凍済みデータ\Project\cBitmap\bin\Release\cBitmap.pdb
+I:\解凍済みデータ\Project\cBitmap\bin\Release\3DPoint.dll
+I:\解凍済みデータ\Project\cBitmap\bin\Release\3DPoint.pdb
+I:\解凍済みデータ\Project\cBitmap\obj\Release\ResolveAssemblyReference.cache
+I:\解凍済みデータ\Project\cBitmap\obj\Release\cBitmap.dll
+I:\解凍済みデータ\Project\cBitmap\obj\Release\cBitmap.pdb
+H:\Project\cBitmap\bin\Release\TriangleNumberData.dll
+H:\Project\cBitmap\bin\Release\TriangleNumberData.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\cBitmap\bin\Release\TriangleNumberData.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\cBitmap\bin\Release\TriangleNumberData.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\cBitmap\bin\Release\TriangleNumberData.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\cBitmap\bin\Release\TriangleNumberData.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\cBitmap\obj\Release\cBitmap.pdb
+F:\Project(08.10.08)\cBitmap\bin\Release\cBitmap.dll
+F:\Project(08.10.08)\cBitmap\bin\Release\cBitmap.pdb
+F:\Project(08.10.08)\cBitmap\bin\Release\PointFormat.dll
+F:\Project(08.10.08)\cBitmap\bin\Release\TriangleNumberData.dll
+F:\Project(08.10.08)\cBitmap\bin\Release\TriangleNumberData.pdb
+F:\Project(08.10.08)\cBitmap\bin\Release\PointFormat.pdb
+F:\Project(08.10.08)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+F:\Project(08.10.08)\cBitmap\obj\Release\cBitmap.dll
+F:\Project(08.10.08)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\cBitmap\bin\Release\TriangleNumberData.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\cBitmap\bin\Release\TriangleNumberData.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\cBitmap\obj\Release\cBitmap.pdb
+H:\解凍済みデータ\Project(08.10.20)\cBitmap\bin\Release\cBitmap.dll
+H:\解凍済みデータ\Project(08.10.20)\cBitmap\bin\Release\cBitmap.pdb
+H:\解凍済みデータ\Project(08.10.20)\cBitmap\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.10.20)\cBitmap\bin\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.10.20)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.10.20)\cBitmap\obj\Release\cBitmap.dll
+H:\解凍済みデータ\Project(08.10.20)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21.河内)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21.河内)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21.河内)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21.河内)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21.河内)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21.河内)\cBitmap\obj\Release\cBitmap.pdb
+H:\解凍済みデータ\Project(08.10.22)\cBitmap\bin\Release\cBitmap.dll
+H:\解凍済みデータ\Project(08.10.22)\cBitmap\bin\Release\cBitmap.pdb
+H:\解凍済みデータ\Project(08.10.22)\cBitmap\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.10.22)\cBitmap\bin\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.10.22)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.10.22)\cBitmap\obj\Release\cBitmap.dll
+H:\解凍済みデータ\Project(08.10.22)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.22)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.22)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.22)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.22)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.22)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.22)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.22)\cBitmap\obj\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.23.河内)\cBitmap\bin\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.23.河内)\cBitmap\bin\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.23.河内)\cBitmap\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.23.河内)\cBitmap\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.23.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.10.23.河内)\cBitmap\obj\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.23.河内)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.23.河内)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.23.河内)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.23.河内)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.23.河内)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.23.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.23.河内)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.23.河内)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.25.河内)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.25.河内)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.25.河内)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.25.河内)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.25.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.25.河内)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.25.河内)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.28.河内)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.28.河内)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.28.河内)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.28.河内)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.28.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.28.河内)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.28.河内)\cBitmap\obj\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.29.河内)\cBitmap\bin\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.29.河内)\cBitmap\bin\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.29.河内)\cBitmap\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.29.河内)\cBitmap\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.29.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.10.29.河内)\cBitmap\obj\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.29.河内)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.29.河内)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.29.河内)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.29.河内)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.29.河内)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.29.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.29.河内)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.29.河内)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\cBitmap\obj\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.30.河内)\cBitmap\bin\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.30.河内)\cBitmap\bin\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.30.河内)\cBitmap\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.30.河内)\cBitmap\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.30.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.10.30.河内)\cBitmap\obj\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.30.河内)\cBitmap\obj\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.31.河内)\cBitmap\bin\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.31.河内)\cBitmap\bin\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.31.河内)\cBitmap\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.31.河内)\cBitmap\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.31.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.10.31.河内)\cBitmap\obj\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.31.河内)\cBitmap\obj\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.01.河内)\cBitmap\bin\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.01.河内)\cBitmap\bin\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.01.河内)\cBitmap\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.01.河内)\cBitmap\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.01.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.01.河内)\cBitmap\obj\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.01.河内)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.03.河内)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.03.河内)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.03.河内)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.03.河内)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.03.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.03.河内)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.03.河内)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.05.河内)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.05.河内)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.05.河内)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.05.河内)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.05.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.05.河内)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.05.河内)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.06.河内)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.06.河内)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.06.河内)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.06.河内)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.06.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.06.河内)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.06.河内)\cBitmap\obj\Release\cBitmap.pdb
+H:\解凍済みデータ\Project(08.11.06.河内)\cBitmap\bin\Release\cBitmap.dll
+H:\解凍済みデータ\Project(08.11.06.河内)\cBitmap\bin\Release\cBitmap.pdb
+H:\解凍済みデータ\Project(08.11.06.河内)\cBitmap\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.06.河内)\cBitmap\bin\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.06.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.11.06.河内)\cBitmap\obj\Release\cBitmap.dll
+H:\解凍済みデータ\Project(08.11.06.河内)\cBitmap\obj\Release\cBitmap.pdb
+H:\解凍済みデータ\Project(08.11.07 稲葉)\cBitmap\bin\Release\cBitmap.dll
+H:\解凍済みデータ\Project(08.11.07 稲葉)\cBitmap\bin\Release\cBitmap.pdb
+H:\解凍済みデータ\Project(08.11.07 稲葉)\cBitmap\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.07 稲葉)\cBitmap\bin\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.07 稲葉)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.11.07 稲葉)\cBitmap\obj\Release\cBitmap.dll
+H:\解凍済みデータ\Project(08.11.07 稲葉)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\cBitmap\obj\Release\cBitmap.pdb
+H:\解凍済みデータ\Project(08.11.09 稲葉)\cBitmap\bin\Release\cBitmap.dll
+H:\解凍済みデータ\Project(08.11.09 稲葉)\cBitmap\bin\Release\cBitmap.pdb
+H:\解凍済みデータ\Project(08.11.09 稲葉)\cBitmap\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.09 稲葉)\cBitmap\bin\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.09 稲葉)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.11.09 稲葉)\cBitmap\obj\Release\cBitmap.dll
+H:\解凍済みデータ\Project(08.11.09 稲葉)\cBitmap\obj\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.10)\cBitmap\bin\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.10)\cBitmap\bin\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.10)\cBitmap\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.10)\cBitmap\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.10)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.10)\cBitmap\obj\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.10)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内)\cBitmap\obj\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.15 河内）\cBitmap\bin\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.15 河内）\cBitmap\bin\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.15 河内）\cBitmap\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.15 河内）\cBitmap\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.15 河内）\cBitmap\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.15 河内）\cBitmap\obj\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.15 河内）\cBitmap\obj\Release\cBitmap.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\cBitmap\bin\Release\cBitmap.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\cBitmap\bin\Release\cBitmap.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\cBitmap\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\cBitmap\bin\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\cBitmap\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.11.17 河内）\cBitmap\obj\Release\cBitmap.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\cBitmap\obj\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.17)\cBitmap\bin\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.17)\cBitmap\bin\Release\cBitmap.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.17)\cBitmap\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.17)\cBitmap\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.17)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.17)\cBitmap\obj\Release\cBitmap.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.17)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.17.河内)\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.17.河内)\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.17.河内)\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.17.河内)\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.17.河内)\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.17.河内)\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.17.河内)\cBitmap\obj\Release\cBitmap.pdb
+K:\Documents and Settings\Owner\My Documents\originalプログラム\cBitmap\bin\Release\cBitmap.dll
+K:\Documents and Settings\Owner\My Documents\originalプログラム\cBitmap\bin\Release\cBitmap.pdb
+K:\Documents and Settings\Owner\My Documents\originalプログラム\cBitmap\bin\Release\PointFormat.dll
+K:\Documents and Settings\Owner\My Documents\originalプログラム\cBitmap\bin\Release\PointFormat.pdb
+K:\Documents and Settings\Owner\My Documents\originalプログラム\cBitmap\obj\Release\ResolveAssemblyReference.cache
+K:\Documents and Settings\Owner\My Documents\originalプログラム\cBitmap\obj\Release\cBitmap.dll
+K:\Documents and Settings\Owner\My Documents\originalプログラム\cBitmap\obj\Release\cBitmap.pdb
+C:\Documents and Settings\e06d5029\My Documents\γ\cBitmap\bin\Release\cBitmap.dll
+C:\Documents and Settings\e06d5029\My Documents\γ\cBitmap\bin\Release\cBitmap.pdb
+C:\Documents and Settings\e06d5029\My Documents\γ\cBitmap\bin\Release\PointFormat.dll
+C:\Documents and Settings\e06d5029\My Documents\γ\cBitmap\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e06d5029\My Documents\γ\cBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e06d5029\My Documents\γ\cBitmap\obj\Release\cBitmap.dll
+C:\Documents and Settings\e06d5029\My Documents\γ\cBitmap\obj\Release\cBitmap.pdb

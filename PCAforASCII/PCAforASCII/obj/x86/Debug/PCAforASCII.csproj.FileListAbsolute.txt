@@ -1,0 +1,323 @@
+C:\Users\yudai\AppData\Local\Temporary Projects\PCAforASCII\bin\Debug\PCAforASCII.exe
+C:\Users\yudai\AppData\Local\Temporary Projects\PCAforASCII\bin\Debug\PCAforASCII.pdb
+C:\Users\yudai\AppData\Local\Temporary Projects\PCAforASCII\obj\x86\Debug\PCAforASCII.Form1.resources
+C:\Users\yudai\AppData\Local\Temporary Projects\PCAforASCII\obj\x86\Debug\PCAforASCII.Properties.Resources.resources
+C:\Users\yudai\AppData\Local\Temporary Projects\PCAforASCII\obj\x86\Debug\PCAforASCII.csproj.GenerateResource.Cache
+C:\Users\yudai\AppData\Local\Temporary Projects\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+C:\Users\yudai\AppData\Local\Temporary Projects\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\PCAforASCII.exe
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\PCAforASCII.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\obj\x86\Debug\PCAforASCII.Form1.resources
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\obj\x86\Debug\PCAforASCII.Properties.Resources.resources
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\obj\x86\Debug\PCAforASCII.csproj.GenerateResource.Cache
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\PersonExpressionsASCII.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\PersonExpressionsASCII.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\obj\x86\Debug\PCAforASCII.csprojResolveAssemblyReference.cache
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\PointFormat.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\MatrixVector.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\PCAManagerFromAscii.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\DoPCA.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\IOMan.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\ObjectSecondVersion.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\ErrorIndex.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\PointFormat.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\MatrixVector.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\MatrixVector.xml
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\PCAManagerFromAscii.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\DoPCA.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\IOMan.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\IOMan.xml
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\ObjectSecondVersion.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PCAforASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\obj\x86\Debug\PCAforASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\obj\x86\Debug\PCAforASCII.Form1.resources
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\obj\x86\Debug\PCAforASCII.Properties.Resources.resources
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\obj\x86\Debug\PCAforASCII.csproj.GenerateResource.Cache
+Z:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+Z:\2014年度\M1\荒井\PCAforASCII20140509\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\obj\x86\Debug\PCAforASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\obj\x86\Debug\PCAforASCII.Form1.resources
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\obj\x86\Debug\PCAforASCII.Properties.Resources.resources
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PCAforASCII\obj\x86\Debug\PCAforASCII.csproj.GenerateResource.Cache
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PCAforASCII.exe
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PCAforASCII.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\DoPCA.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\MatrixVector.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PersonExpressionsASCII.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PointFormat.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PCAManagerFromAscii.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\IOMan.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\ObjectSecondVersion.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\ErrorIndex.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\DoPCA.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\MatrixVector.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\MatrixVector.xml
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PersonExpressionsASCII.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PointFormat.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PCAManagerFromAscii.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\IOMan.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\IOMan.xml
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\ObjectSecondVersion.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\ErrorIndex.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.csprojResolveAssemblyReference.cache
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.Form1.resources
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.Properties.Resources.resources
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.csproj.GenerateResource.Cache
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.Form1.resources
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.Properties.Resources.resources
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.csproj.GenerateResource.Cache
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PCAforASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\obj\x86\Debug\PCAforASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\obj\x86\Debug\PCAforASCII.Form1.resources
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\obj\x86\Debug\PCAforASCII.Properties.Resources.resources
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PCAforASCII\obj\x86\Debug\PCAforASCII.csproj.GenerateResource.Cache
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\obj\x86\Debug\PCAforASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\obj\x86\Debug\PCAforASCII.Form1.resources
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\obj\x86\Debug\PCAforASCII.Properties.Resources.resources
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PCAforASCII\obj\x86\Debug\PCAforASCII.csproj.GenerateResource.Cache
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\obj\x86\Debug\PCAforASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\obj\x86\Debug\PCAforASCII.Form1.resources
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\obj\x86\Debug\PCAforASCII.Properties.Resources.resources
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PCAforASCII\obj\x86\Debug\PCAforASCII.csproj.GenerateResource.Cache
+G:\PCAforASCII20140526 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+G:\PCAforASCII20140526 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.csprojResolveAssemblyReference.cache
+G:\PCAforASCII20140526 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.Form1.resources
+G:\PCAforASCII20140526 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.Properties.Resources.resources
+G:\PCAforASCII20140526 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.csproj.GenerateResource.Cache
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\PCAforASCII.exe
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\PCAforASCII.pdb
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\DoPCA.dll
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\MatrixVector.dll
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\PCAManagerFromAscii.dll
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\PersonExpressionsASCII.dll
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\PointFormat.dll
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\IOMan.dll
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\ObjectSecondVersion.dll
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\ErrorIndex.dll
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\DoPCA.pdb
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\MatrixVector.pdb
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\MatrixVector.xml
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\PCAManagerFromAscii.pdb
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\PersonExpressionsASCII.pdb
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\PointFormat.pdb
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\IOMan.pdb
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\IOMan.xml
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\ObjectSecondVersion.pdb
+G:\PCAforASCII20140526 - コピー\PCAforASCII\bin\Debug\ErrorIndex.pdb
+G:\PCAforASCII20140526 - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\obj\x86\Debug\PCAforASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\obj\x86\Debug\PCAforASCII.Form1.resources
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\obj\x86\Debug\PCAforASCII.Properties.Resources.resources
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PCAforASCII\obj\x86\Debug\PCAforASCII.csproj.GenerateResource.Cache
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\obj\x86\Debug\PCAforASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\obj\x86\Debug\PCAforASCII.Form1.resources
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\obj\x86\Debug\PCAforASCII.Properties.Resources.resources
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\obj\x86\Debug\PCAforASCII.csproj.GenerateResource.Cache
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PCAforASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.Form1.resources
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.Properties.Resources.resources
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.csproj.GenerateResource.Cache
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\PCAforASCII.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー\PCAforASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.exe
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PCAforASCII\obj\x86\Debug\PCAforASCII.pdb

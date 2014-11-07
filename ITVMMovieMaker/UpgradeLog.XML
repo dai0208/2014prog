@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ITVMMovieMaker">
+</Property><Property Name="ソリューション ファイル" Value="Y:\2014年度\M1\荒井\2014年つくったプログラム\ITVMMovieMaker_0805\ITVMMovieMaker.sln">
+</Property><Property Name="Date" Value="2014年9月16日">
+</Property><Property Name="Time" Value="18:46:05">
+</Property></Properties><Event ErrorLevel="0" Project="cBitmap" Source="cBitmap\cBitmap.csproj" Description="プロジェクト ファイルは正常に Y:\2014年度\M1\荒井\2014年つくったプログラム\ITVMMovieMaker_0805\Backup\cBitmap.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="cBitmap" Source="cBitmap\cBitmap.cs" Description="ファイルは正常に Y:\2014年度\M1\荒井\2014年つくったプログラム\ITVMMovieMaker_0805\Backup\cBitmap.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="cBitmap" Source="cBitmap\cCreateBitmapFrom3DPoint.cs" Description="ファイルは正常に Y:\2014年度\M1\荒井\2014年つくったプログラム\ITVMMovieMaker_0805\Backup\cCreateBitmapFrom3DPoint.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="cBitmap" Source="cBitmap\cCreateBitmapFrom3DPointFast.cs" Description="ファイルは正常に Y:\2014年度\M1\荒井\2014年つくったプログラム\ITVMMovieMaker_0805\Backup\cCreateBitmapFrom3DPointFast.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="cBitmap" Source="cBitmap\cCreateBitmapFrom3DPointParspective.cs" Description="ファイルは正常に Y:\2014年度\M1\荒井\2014年つくったプログラム\ITVMMovieMaker_0805\Backup\cCreateBitmapFrom3DPointParspective.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="cBitmap" Source="cBitmap\Properties\AssemblyInfo.cs" Description="ファイルは正常に Y:\2014年度\M1\荒井\2014年つくったプログラム\ITVMMovieMaker_0805\Backup\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="cBitmap" Source="cBitmap\cBitmap.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="cBitmap" Source="cBitmap\cBitmap.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cBitmap" Source="cBitmap\cBitmap.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRestructure", "MyRestructure\MyRestructure.csproj", "{A5E4FC07-D5F6-4FC2-A586-9CF5A147F032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixVector", "MatrixVector\MatrixVector\MatrixVector.csproj", "{A8CB2571-3B5C-4215-95D4-A98CB80480DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointFormat", "PointFormat\PointFormat\PointFormat.csproj", "{735CA3A5-CAC9-4AAF-BCBF-728C44589378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E4FC07-D5F6-4FC2-A586-9CF5A147F032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E4FC07-D5F6-4FC2-A586-9CF5A147F032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E4FC07-D5F6-4FC2-A586-9CF5A147F032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E4FC07-D5F6-4FC2-A586-9CF5A147F032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8CB2571-3B5C-4215-95D4-A98CB80480DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8CB2571-3B5C-4215-95D4-A98CB80480DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8CB2571-3B5C-4215-95D4-A98CB80480DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8CB2571-3B5C-4215-95D4-A98CB80480DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735CA3A5-CAC9-4AAF-BCBF-728C44589378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735CA3A5-CAC9-4AAF-BCBF-728C44589378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735CA3A5-CAC9-4AAF-BCBF-728C44589378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735CA3A5-CAC9-4AAF-BCBF-728C44589378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClient\SVMClient\obj\x86\Release\SVMClient.Form1.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClient\SVMClient\obj\x86\Release\SVMClient.Properties.Resources.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClient\SVMClient\obj\x86\Release\SVMClient.csproj.GenerateResource.Cache

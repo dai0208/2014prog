@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3DPoint</name>
+    </assembly>
+    <members>
+        <member name="T:_3DPoint.cOpenFile">
+            <summary>
+            ファイル入出力を管理する一番基本となるクラスです。このクラスは必ず派生させて使わなければなりません。
+            </summary>
+        </member>
+        <member name="M:_3DPoint.cOpenFile.#ctor">
+            <summary>
+            特に何もしないコンストラクタです。
+            </summary>
+        </member>
+        <member name="P:_3DPoint.cOpenFile.pgbProgressBar">
+            <summary>
+            ファイルの入出力状況を示すためのプログレスバーの値を設定、取得するためのプロパティです。できる限り指定してください。
+            </summary>
+        </member>
+        <member name="T:_3DPoint.cSaveFile">
+            <summary>
+            cSaveFile の概要の説明です。
+            </summary>
+        </member>
+        <member name="M:_3DPoint.cSaveFile.#ctor">
+            <summary>
+            特に何もしないコンストラクタです。
+            </summary>
+        </member>
+        <member name="M:_3DPoint.cSaveFile.bSaveFile">
+            <summary>
+            ファイルの内容を書き込むためのメソッドです。外部からはこのメソッドを使ってファイルを書き込みます。
+            ファイルの存在チェックなども行っているので、存在しないファイル名を指定されていても自動的に作成し書き込みを行います。
+            また、フォルダが存在しない場合、すでにファイルが存在している場合も同様にメッセージを出し、自動的に処理を行います。
+            </summary>
+            <returns>trueなら書き込み成功。falseなら書き込み失敗。</returns>
+        </member>
+        <member name="M:_3DPoint.cSaveFile.bWriteFile">
+            <summary>
+            派生したクラスが実際にファイルの中身を書き込むためのメソッドです。
+            派生クラスは必ずこのメソッドを実装しなければなりません。
+            </summary>
+            <returns></returns>
+        </member>
+        <!-- 正しくない形式の XML コメントがメンバ "T:_3DPoint.cSavePoint" で無視されました -->
+        <member name="M:_3DPoint.cSavePoint.#ctor(System.String,_3DPoint.cPoint[])">
+            <summary>
+            ファイル名を指定してデータを書き込むためのメソッドです。
+            </summary>
+            <param name="strSaveFileName">書き込み先のファイル名</param>
+            <param name="ipdData">書き込むポイントデータ配列</param>
+        </member>
+        <member name="M:_3DPoint.cSavePoint.bWriteFile">
+            <summary>
+            ファイルにデータを実際に書き込むためのメソッドです。
+            </summary>
+            <returns>trueなら書き込み成功。falseなら書き込み失敗です。</returns>
+        </member>
+        <member name="T:_3DPoint.cPointData">
+            <summary>
+            多数のcPoint型をひとまとまりにして扱うためのクラスです。
+            </summary>
+        </member>
+        <member name="F:_3DPoint.cPointData.icPoint">
+            <summary>
+            保持しているcPointの配列
+            </summary>
+        </member>
+        <member name="M:_3DPoint.cPointData.BinaryDataSave(System.String)">
+            <summary>
+            このクラスをバイナリ形式でセーブするメソッド
+            </summary>
+            <param name="strSaveFileName">セーブファイル名</param>
+            <returns>成功ならTrue</returns>
+        </member>
+        <member name="M:_3DPoint.cPointData.BinaryDataLoad(System.String)">
+            <summary>
+            データをバイナリ形式からロードするメソッド
+            </summary>
+            <param name="strLoadFileName">ロードファイル名</param>
+            <returns>ロードしたデータ</returns>
+        </member>
+        <member name="T:_3DPoint.cPoint">
+            <summary>
+            三次元の点データの座標や色を保持し、簡単なベクトル操作を扱う事のできるクラスです。
+            </summary>
+        </member>
+        <member name="M:_3DPoint.cPoint.#ctor(_3DPoint.cPoint)">
+            <summary>
+            コピーコンストラクタ
+            </summary>
+            <param name="icPoint">コピーされたインスタンス</param>
+        </member>
+        <member name="M:_3DPoint.cPoint.op_Explicit(_3DPoint.cPoint)~System.Drawing.Point">
+            <summary>
+            cPoint型からPoint型への変換
+            </summary>
+            <param name="icpPoint">cPoint型のインスタンス</param>
+            <returns>Point型のインスタンス</returns>
+        </member>
+        <member name="M:_3DPoint.cPoint.op_Explicit(System.Drawing.Point)~_3DPoint.cPoint">
+            <summary>
+            Point型からcPoint型への変換
+            </summary>
+            <param name="pPoint">Point型のインスタンス</param>
+            <returns>cPoint型のインスタンス</returns>
+        </member>
+        <member name="P:_3DPoint.cPoint.dX_Value">
+            <summary>
+            Xの値を取得、設定します。
+            </summary>
+        </member>
+        <member name="P:_3DPoint.cPoint.dY_Value">
+            <summary>
+            Yの値を取得、設定します。
+            </summary>
+        </member>
+        <member name="P:_3DPoint.cPoint.dZ_Value">
+            <summary>
+            Zの値を取得、設定します。
+            </summary>
+        </member>
+        <member name="P:_3DPoint.cPoint.iR_Value">
+            <summary>
+            Rの値を取得、設定します。値は0～255の範囲になります。
+            </summary>
+        </member>
+        <member name="P:_3DPoint.cPoint.iG_Value">
+            <summary>
+            Gの値を取得、設定します。値は0～255の範囲になります。
+            </summary>
+        </member>
+        <member name="P:_3DPoint.cPoint.iB_Value">
+            <summary>
+            Bの値を取得、設定します。値は0～255の範囲になります。
+            </summary>
+        </member>
+        <member name="P:_3DPoint.cPoint.Color">
+            <summary>
+            点の色を取得、設定します。
+            </summary>
+        </member>
+        <member name="P:_3DPoint.cPoint.Tag">
+            <summary>
+            汎用的なオブジェクトを保持します。object型にキャストして使ってください。
+            </summary>
+        </member>
+        <member name="T:_3DPoint.cLoadFile">
+            <summary>
+            rapidFormのデータを読み込むためのクラスです。cOpenFileが基底クラスです。
+            </summary>
+        </member>
+        <member name="M:_3DPoint.cLoadFile.#ctor">
+            <summary>
+            コンストラクタですが、特に何もしません。
+            </summary>
+        </member>
+        <member name="M:_3DPoint.cLoadFile.bReadData">
+            <summary>
+            ファイルの内容を読み込むためのメソッドです。外部からはこのメソッドを使ってファイルを読み込みます。
+            ファイルの存在チェックなども行っているので、存在しないファイル名を指定されていても大丈夫です。
+            </summary>
+            <returns>trueなら読み込み成功。falseなら読み込み失敗です。</returns>
+        </member>
+        <member name="M:_3DPoint.cLoadFile.bReadFile">
+            <summary>
+            派生したクラスが実際にファイルの中身を読み込むためのメソッドです。
+            派生クラスは必ずこのメソッドを実装しなければなりません。
+            </summary>
+            <returns>trueなら読み込み成功。falseなら読み込み失敗として作ってください。</returns>
+        </member>
+        <member name="T:_3DPoint.cLoadPoint">
+            <summary>
+             ファイルからポイントデータを読み出すためのクラスです。
+             基底クラスはcLoadFileです。
+            </summary>
+        </member>
+        <member name="M:_3DPoint.cLoadPoint.#ctor(System.String)">
+            <summary>
+            コンストラクタです。読み出すファイル名を指定します。読み出す時はbReadFileメソッドを実行してください。
+            </summary>
+            <param name="strLoadFileName">読み出すファイル名</param>
+        </member>
+        <member name="M:_3DPoint.cLoadPoint.bReadFile">
+             <summary>
+            このメソッドを実行するとファイルからデータを読み出します。
+             </summary>
+             <returns>trueなら読み出し成功。falseなら読み出し失敗です。</returns>
+        </member>
+        <member name="P:_3DPoint.cLoadPoint.ipPoint">
+             <summary>
+            読み出したポイントデータを取得するためのプロパティです。
+             </summary>
+        </member>
+        <member name="P:_3DPoint.cLoadPoint.iPointNo">
+            <summary>
+            読み出したポイントデータ配列の要素数を取得するためのプロパティです。
+            </summary>
+        </member>
+        <member name="T:_3DPoint.Properties.Resources">
+            <summary>
+              ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+            </summary>
+        </member>
+        <member name="P:_3DPoint.Properties.Resources.ResourceManager">
+            <summary>
+              このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+            </summary>
+        </member>
+        <member name="P:_3DPoint.Properties.Resources.Culture">
+            <summary>
+              厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+              現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+            </summary>
+        </member>
+    </members>
+</doc>

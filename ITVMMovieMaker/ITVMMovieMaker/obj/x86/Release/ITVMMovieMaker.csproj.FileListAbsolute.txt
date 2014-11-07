@@ -1,0 +1,4 @@
+G:\ITVMMovieMaker\ITVMMovieMaker\obj\x86\Release\ITVMMovieMaker.csprojResolveAssemblyReference.cache
+G:\ITVMMovieMaker\ITVMMovieMaker\obj\x86\Release\ITVMMovieMaker.Form1.resources
+G:\ITVMMovieMaker\ITVMMovieMaker\obj\x86\Release\ITVMMovieMaker.Properties.Resources.resources
+G:\ITVMMovieMaker\ITVMMovieMaker\obj\x86\Release\ITVMMovieMaker.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\MatrixVector\MatrixVector\bin\x64\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\MatrixVector\MatrixVector\bin\x64\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\MatrixVector\MatrixVector\bin\x64\Debug\MatrixVector.XML
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\MatrixVector\MatrixVector\obj\x64\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\MatrixVector\MatrixVector\obj\x64\Debug\MatrixVector.pdb

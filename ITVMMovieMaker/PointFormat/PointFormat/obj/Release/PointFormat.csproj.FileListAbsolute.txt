@@ -1,0 +1,310 @@
+C:\Documents and Settings\e05d5022\デスクトップ\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.09.29（弄りすぎ注意）\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.09.29（弄りすぎ注意）\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.09.29（弄りすぎ注意）\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.09.29（弄りすぎ注意）\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.09.29（弄りすぎ注意）\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+H:\Project(09.29編集版)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+H:\Project(09.29編集版)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+H:\Project(09.29編集版)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+H:\Project(09.29編集版)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+H:\Project(09.29編集版)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版Recipeのみ未救出)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版Recipeのみ未救出)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版Recipeのみ未救出)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版Recipeのみ未救出)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(09.29編集版Recipeのみ未救出)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project稲葉修正バージョン08.10.03\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+F:\Project(08.10.08)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+F:\Project(08.10.08)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+F:\Project(08.10.08)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+F:\Project(08.10.08)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+F:\Project(08.10.08)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.20)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.10.20)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.10.20)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.10.20)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.10.20)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.10.20)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.21.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.10.22)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.10.22)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.10.22)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.10.22)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.10.22)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.22)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.22)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.22)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.22)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.22)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.23.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.23.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.23.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.10.23.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.23.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.23.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.23.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.23.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.23.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.23.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.25.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.25.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.25.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.25.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.25.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.27.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.27.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.27.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.27.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.27.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.28.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.28.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.28.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.28.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\JUMPEI\デスクトップ\Project(08.10.28.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5058\デスクトップ\Project(08.10.29.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5058\デスクトップ\Project(08.10.29.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5058\デスクトップ\Project(08.10.29.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5058\デスクトップ\Project(08.10.29.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5058\デスクトップ\Project(08.10.29.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.29.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.29.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.29.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.10.29.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.29.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.29.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.29.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.29.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.29.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.29.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.30.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.30.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.30.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.10.30.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.30.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.31.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.31.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.10.31.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.10.31.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.10.31.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.01.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.01.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.01.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.01.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.01.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.03.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.03.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.03.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.03.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.03.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.05.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.05.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.05.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.05.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.05.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.06.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.06.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.06.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.06.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.06.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.06.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.06.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.06.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.11.06.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.06.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.07 稲葉)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.07 稲葉)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.07 稲葉)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.11.07 稲葉)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.07 稲葉)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.09 稲葉)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.11.09 稲葉)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.09 稲葉)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.09 稲葉)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.09 稲葉)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.10)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.10)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.10)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.10)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.10)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内最新)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内最新)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内最新)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内最新)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内最新)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内）\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内）\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内）\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内）\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内）\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11 河内）\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11 河内）\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11 河内）\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11 河内）\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11 河内）\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.12 河内）\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.12 河内）\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.12 河内）\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.12 河内）\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.12 河内）\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.12 河内）\PointFormat\PointFormat\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.12 河内）\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.12 河内）\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.12 河内）\PointFormat\PointFormat\obj\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.12 河内）\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.13 河内）\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.13 河内）\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.13 河内）\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.13 河内）\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.13 河内）\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.15 河内）\PointFormat\PointFormat\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.15 河内）\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.15 河内）\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.15 河内）\PointFormat\PointFormat\obj\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.15 河内）\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.16 河内）\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.16 河内）\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.16 河内）\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.16 河内）\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.16 河内）\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.17 河内）\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.17 河内）\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.17 河内）\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.17 河内）\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.17 河内）\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\PointFormat\PointFormat\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.11.17 河内）\PointFormat\PointFormat\obj\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.17)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.17)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.17)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.17)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.17)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.26.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.26.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.26.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.26.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.26.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.26.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.26.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.26.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.11.26.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.26.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.27)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.27)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.27)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.27)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.27)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.30.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.30.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.30.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.30.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.30.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.30.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.30.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.30.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.11.30.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.30.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.17.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.17.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.17.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.17.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.17.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Users\shiro\Desktop\Project(09.01.26.河内)\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Users\shiro\Desktop\Project(09.01.26.河内)\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Users\shiro\Desktop\Project(09.01.26.河内)\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Users\shiro\Desktop\Project(09.01.26.河内)\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Users\shiro\Desktop\Project(09.01.26.河内)\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\bin\Release\PointFormat.dll
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\obj\Release\PointFormat.dll
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+Z:\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\bin\Release\PointFormat.dll
+Z:\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+Z:\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+Z:\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\obj\Release\PointFormat.dll
+Z:\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+\\NEW_TERA\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\bin\Release\PointFormat.dll
+\\NEW_TERA\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+\\NEW_TERA\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+\\NEW_TERA\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\obj\Release\PointFormat.dll
+\\NEW_TERA\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\bin\Release\PointFormat.dll
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\obj\Release\PointFormat.dll
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PointFormat\PointFormat\bin\Release\PointFormat.dll
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PointFormat\PointFormat\obj\Release\PointFormat.dll
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+X:\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PointFormat\PointFormat\bin\Release\PointFormat.dll
+X:\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+X:\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+X:\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PointFormat\PointFormat\obj\Release\PointFormat.dll
+X:\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PointFormat\PointFormat\obj\Release\PointFormat.pdb
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PointFormat\PointFormat\bin\Release\PointFormat.dll
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PointFormat\PointFormat\bin\Release\PointFormat.pdb
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PointFormat\PointFormat\obj\Release\ResolveAssemblyReference.cache
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PointFormat\PointFormat\obj\Release\PointFormat.dll
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PointFormat\PointFormat\obj\Release\PointFormat.pdb

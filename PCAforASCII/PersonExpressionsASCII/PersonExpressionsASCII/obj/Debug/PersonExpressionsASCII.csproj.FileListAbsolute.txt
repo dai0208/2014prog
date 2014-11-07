@@ -1,0 +1,238 @@
+D:\User\Documents\Visual Studio 2010\Projects\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.dll
+D:\User\Documents\Visual Studio 2010\Projects\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ASC.dll
+D:\User\Documents\Visual Studio 2010\Projects\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ASC.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.csprojResolveAssemblyReference.cache
+D:\User\Documents\Visual Studio 2010\Projects\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.dll
+D:\User\Documents\Visual Studio 2010\Projects\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.csprojResolveAssemblyReference.cache
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.xml
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.xml
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.csprojResolveAssemblyReference.cache
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.dll
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.xml
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.xml
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.pdb
+G:\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\てすとさんぷる\PCAforASCII20140515 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140519\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140526\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.pdb
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.csprojResolveAssemblyReference.cache
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.dll
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.pdb
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.dll
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.pdb
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.dll
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.dll
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.dll
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.dll
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.dll
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.dll
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.dll
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.pdb
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.pdb
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.xml
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.pdb
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.pdb
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.pdb
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.xml
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.pdb
+G:\PCAforASCII20140526 - コピー\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PersonExpressionsASCII.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PersonExpressionsASCII\obj\Debug\PersonExpressionsASCII.pdb

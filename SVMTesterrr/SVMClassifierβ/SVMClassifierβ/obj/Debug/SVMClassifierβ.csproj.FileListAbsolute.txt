@@ -1,0 +1,65 @@
+d:\user\documents\visual studio 2010\Projects\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVMClassifierβ.dll
+d:\user\documents\visual studio 2010\Projects\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVMClassifierβ.pdb
+d:\user\documents\visual studio 2010\Projects\SVMClassifierβ\SVMClassifierβ\bin\Debug\MatrixVector.dll
+d:\user\documents\visual studio 2010\Projects\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVM.dll
+d:\user\documents\visual studio 2010\Projects\SVMClassifierβ\SVMClassifierβ\bin\Debug\MatrixVector.pdb
+d:\user\documents\visual studio 2010\Projects\SVMClassifierβ\SVMClassifierβ\bin\Debug\MatrixVector.xml
+d:\user\documents\visual studio 2010\Projects\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVM.pdb
+d:\user\documents\visual studio 2010\Projects\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVM.xml
+d:\user\documents\visual studio 2010\Projects\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2010\Projects\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.fmLog.resources
+d:\user\documents\visual studio 2010\Projects\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.csproj.GenerateResource.Cache
+d:\user\documents\visual studio 2010\Projects\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.dll
+d:\user\documents\visual studio 2010\Projects\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.pdb
+G:\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVMClassifierβ.dll
+G:\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVMClassifierβ.pdb
+G:\SVMClassifierβ\SVMClassifierβ\bin\Debug\MatrixVector.dll
+G:\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVM.dll
+G:\SVMClassifierβ\SVMClassifierβ\bin\Debug\MatrixVector.pdb
+G:\SVMClassifierβ\SVMClassifierβ\bin\Debug\MatrixVector.xml
+G:\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVM.pdb
+G:\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVM.xml
+G:\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.csprojResolveAssemblyReference.cache
+G:\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.fmLog.resources
+G:\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.csproj.GenerateResource.Cache
+G:\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.dll
+G:\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVMClassifierβ.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVMClassifierβ.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ\SVMClassifierβ\bin\Debug\MatrixVector.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVM.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ\SVMClassifierβ\bin\Debug\MatrixVector.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ\SVMClassifierβ\bin\Debug\MatrixVector.xml
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVM.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVM.xml
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.csprojResolveAssemblyReference.cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.fmLog.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.csproj.GenerateResource.Cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ(1119)\SVMClassifierβ\bin\Debug\SVMClassifierβ.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ(1119)\SVMClassifierβ\bin\Debug\SVMClassifierβ.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ(1119)\SVMClassifierβ\bin\Debug\MatrixVector.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ(1119)\SVMClassifierβ\bin\Debug\SVM.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ(1119)\SVMClassifierβ\bin\Debug\MatrixVector.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ(1119)\SVMClassifierβ\bin\Debug\MatrixVector.xml
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ(1119)\SVMClassifierβ\bin\Debug\SVM.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ(1119)\SVMClassifierβ\bin\Debug\SVM.xml
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ(1119)\SVMClassifierβ\obj\Debug\SVMClassifierβ.csprojResolveAssemblyReference.cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ(1119)\SVMClassifierβ\obj\Debug\SVMClassifierβ.fmLog.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ(1119)\SVMClassifierβ\obj\Debug\SVMClassifierβ.csproj.GenerateResource.Cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ(1119)\SVMClassifierβ\obj\Debug\SVMClassifierβ.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMClassifierβ(1119)\SVMClassifierβ\obj\Debug\SVMClassifierβ.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVMClassifierβ.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVMClassifierβ.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\SVMClassifierβ\SVMClassifierβ\bin\Debug\MatrixVector.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVM.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\SVMClassifierβ\SVMClassifierβ\bin\Debug\MatrixVector.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\SVMClassifierβ\SVMClassifierβ\bin\Debug\MatrixVector.xml
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVM.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\SVMClassifierβ\SVMClassifierβ\bin\Debug\SVM.xml
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.csprojResolveAssemblyReference.cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.fmLog.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.csproj.GenerateResource.Cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\SVMTester\SVMClassifierβ\SVMClassifierβ\obj\Debug\SVMClassifierβ.pdb

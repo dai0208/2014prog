@@ -1,0 +1,4 @@
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\NullObject\bin\x64\Debug\NullObject.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\NullObject\bin\x64\Debug\NullObject.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\NullObject\obj\x64\Debug\NullObject.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって) - コピー - コピー\PersonExpressionsASCII\NullObject\obj\x64\Debug\NullObject.pdb

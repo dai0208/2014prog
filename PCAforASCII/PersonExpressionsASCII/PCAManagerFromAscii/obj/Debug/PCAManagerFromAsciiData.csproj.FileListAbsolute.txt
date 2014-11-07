@@ -1,0 +1,285 @@
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\IOMan.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\IOMan.xml
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\obj\Debug\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\PrincipalComponentAnalysisβ\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\IOMan.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\IOMan.xml
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\obj\Debug\ResolveAssemblyReference.cache
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+D:\デスクトップ\ゼミ\project\Project(08.11.18.河内)\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\IOMan.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\IOMan.xml
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.18.河内)\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\IOMan.dll
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\IOMan.xml
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\obj\Debug\ResolveAssemblyReference.cache
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+Y:\2010年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\IOMan.dll
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\IOMan.xml
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\obj\Debug\ResolveAssemblyReference.cache
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+\\new_tera\share\2009年度\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\IOMan.dll
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\IOMan.xml
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\obj\Debug\ResolveAssemblyReference.cache
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+\\2nd_tera\share\2009年度卒業\Project\3次元プロジェクト用\プログラム\2008年度作成\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\IOMan.dll
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\IOMan.xml
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\obj\Debug\ResolveAssemblyReference.cache
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+\\3RD_TERA\share\2012年度　4年生　3次元顔画像データ\永田プログラム\参照系\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\IOMan.dll
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\IOMan.xml
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+C:\Users\09x3005\Desktop\卒論\永田プログラム\参照系\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\IOMan.dll
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\IOMan.xml
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\obj\Debug\PCAManagerFromAsciiData.csprojResolveAssemblyReference.cache
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+Y:\2013年度\B4\荒井\＿主観評定画像生成メニュー（作：荒井）\program\参照系\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.xml
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAsciiData.csprojResolveAssemblyReference.cache
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+D:\User\Documents\Visual Studio 2010\Projects\PCAforASCII\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAsciiData.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140509\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAsciiData.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140515\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAsciiData.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140520\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAsciiData.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\PCAforASCII20140603\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PCAManagerFromAscii.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\DoPCA.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PointFormat.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ErrorIndex.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\DoPCA.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\IOMan.xml
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\MatrixVector.xml
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ObjectSecondVersion.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\PointFormat.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\bin\Debug\ErrorIndex.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAsciiData.csprojResolveAssemblyReference.cache
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.dll
+Y:\2014年度\M1\荒井\2014年つくったプログラム\PCAforASCII20140603(誰か代わりに続きつくって)\PersonExpressionsASCII\PCAManagerFromAscii\obj\Debug\PCAManagerFromAscii.pdb
