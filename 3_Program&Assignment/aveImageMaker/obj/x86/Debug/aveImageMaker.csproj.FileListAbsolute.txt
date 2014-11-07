@@ -1,0 +1,39 @@
+C:\Users\yudai\AppData\Local\Temporary Projects\aveImageMaker\bin\Debug\aveImageMaker.exe
+C:\Users\yudai\AppData\Local\Temporary Projects\aveImageMaker\bin\Debug\aveImageMaker.pdb
+C:\Users\yudai\AppData\Local\Temporary Projects\aveImageMaker\obj\x86\Debug\aveImageMaker.Form1.resources
+C:\Users\yudai\AppData\Local\Temporary Projects\aveImageMaker\obj\x86\Debug\aveImageMaker.Properties.Resources.resources
+C:\Users\yudai\AppData\Local\Temporary Projects\aveImageMaker\obj\x86\Debug\aveImageMaker.csproj.GenerateResource.Cache
+C:\Users\yudai\AppData\Local\Temporary Projects\aveImageMaker\obj\x86\Debug\aveImageMaker.exe
+C:\Users\yudai\AppData\Local\Temporary Projects\aveImageMaker\obj\x86\Debug\aveImageMaker.pdb
+D:\User\Documents\Visual Studio 2010\Projects\aveImageMaker\aveImageMaker\obj\x86\Debug\aveImageMaker.exe
+D:\User\Documents\Visual Studio 2010\Projects\aveImageMaker\aveImageMaker\obj\x86\Debug\aveImageMaker.Form1.resources
+D:\User\Documents\Visual Studio 2010\Projects\aveImageMaker\aveImageMaker\obj\x86\Debug\aveImageMaker.Properties.Resources.resources
+D:\User\Documents\Visual Studio 2010\Projects\aveImageMaker\aveImageMaker\obj\x86\Debug\aveImageMaker.csproj.GenerateResource.Cache
+D:\User\Documents\Visual Studio 2010\Projects\aveImageMaker\aveImageMaker\bin\Debug\aveImageMaker.exe
+D:\User\Documents\Visual Studio 2010\Projects\aveImageMaker\aveImageMaker\bin\Debug\aveImageMaker.pdb
+D:\User\Documents\Visual Studio 2010\Projects\aveImageMaker\aveImageMaker\obj\x86\Debug\aveImageMaker.pdb
+Y:\2014年度\B3\3年生ゼミC#\3_Program\aveImageMaker\obj\x86\Debug\aveImageMaker.exe
+Y:\2014年度\B3\3年生ゼミC#\3_Program\aveImageMaker\obj\x86\Debug\aveImageMaker.pdb
+Y:\2014年度\B3\3年生ゼミC#\3_Program\aveImageMaker\bin\Debug\aveImageMaker.exe
+Y:\2014年度\B3\3年生ゼミC#\3_Program\aveImageMaker\bin\Debug\aveImageMaker.pdb
+Y:\2014年度\B3\3年生ゼミC#\3_Program\aveImageMaker\obj\x86\Debug\aveImageMaker.Form1.resources
+Y:\2014年度\B3\3年生ゼミC#\3_Program\aveImageMaker\obj\x86\Debug\aveImageMaker.Properties.Resources.resources
+Y:\2014年度\B3\3年生ゼミC#\3_Program\aveImageMaker\obj\x86\Debug\aveImageMaker.csproj.GenerateResource.Cache
+Y:\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.exe
+Y:\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.pdb
+Y:\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\bin\Debug\aveImageMaker.exe
+Y:\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\bin\Debug\aveImageMaker.pdb
+Y:\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.Form1.resources
+Y:\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.Properties.Resources.resources
+Y:\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.csproj.GenerateResource.Cache
+Y:\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.csprojResolveAssemblyReference.cache
+\\2ND_TERA\share\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.exe
+\\2ND_TERA\share\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.pdb
+X:\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.exe
+X:\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.pdb
+W:\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.exe
+W:\2014年度\B3\3年生ゼミC#\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.pdb
+Z:\2014年度\M1\荒井\2014年つくったプログラム\ゼミ用プログラム\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.exe
+Z:\2014年度\M1\荒井\2014年つくったプログラム\ゼミ用プログラム\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\ゼミ用プログラム\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.exe
+Y:\2014年度\M1\荒井\2014年つくったプログラム\ゼミ用プログラム\3_Program&Assignment\aveImageMaker\obj\x86\Debug\aveImageMaker.pdb

@@ -1,0 +1,20 @@
+d:\users\document\visual studio 2010\Projects\AKMT_001\AKMT_001\bin\Debug\AKMT_001.exe
+d:\users\document\visual studio 2010\Projects\AKMT_001\AKMT_001\bin\Debug\AKMT_001.pdb
+d:\users\document\visual studio 2010\Projects\AKMT_001\AKMT_001\obj\x86\Debug\AKMT_001.Form1.resources
+d:\users\document\visual studio 2010\Projects\AKMT_001\AKMT_001\obj\x86\Debug\AKMT_001.Properties.Resources.resources
+d:\users\document\visual studio 2010\Projects\AKMT_001\AKMT_001\obj\x86\Debug\AKMT_001.csproj.GenerateResource.Cache
+d:\users\document\visual studio 2010\Projects\AKMT_001\AKMT_001\obj\x86\Debug\AKMT_001.exe
+d:\users\document\visual studio 2010\Projects\AKMT_001\AKMT_001\obj\x86\Debug\AKMT_001.pdb
+Y:\2014年度\B3\3年生ゼミC#\AKMT_001\AKMT_001\obj\x86\Debug\AKMT_001.exe
+Y:\2014年度\B3\3年生ゼミC#\AKMT_001\AKMT_001\obj\x86\Debug\AKMT_001.pdb
+Y:\2014年度\B3\3年生ゼミC#\第１回の解答例\AKMT_001\obj\x86\Debug\AKMT_001.exe
+Y:\2014年度\B3\3年生ゼミC#\第１回の解答例\AKMT_001\obj\x86\Debug\AKMT_001.pdb
+Y:\2014年度\B3\3年生ゼミC#\1_Assignment\AKMT_001\obj\x86\Debug\AKMT_001.exe
+Y:\2014年度\B3\3年生ゼミC#\1_Assignment\AKMT_001\obj\x86\Debug\AKMT_001.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\ゼミ用プログラム\1_Assignment\AKMT_001\obj\x86\Debug\AKMT_001.exe
+Y:\2014年度\M1\荒井\2014年つくったプログラム\ゼミ用プログラム\1_Assignment\AKMT_001\obj\x86\Debug\AKMT_001.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\ゼミ用プログラム\1_Assignment\AKMT_001\bin\Debug\AKMT_001.exe
+Y:\2014年度\M1\荒井\2014年つくったプログラム\ゼミ用プログラム\1_Assignment\AKMT_001\bin\Debug\AKMT_001.pdb
+Y:\2014年度\M1\荒井\2014年つくったプログラム\ゼミ用プログラム\1_Assignment\AKMT_001\obj\x86\Debug\AKMT_001.Form1.resources
+Y:\2014年度\M1\荒井\2014年つくったプログラム\ゼミ用プログラム\1_Assignment\AKMT_001\obj\x86\Debug\AKMT_001.Properties.Resources.resources
+Y:\2014年度\M1\荒井\2014年つくったプログラム\ゼミ用プログラム\1_Assignment\AKMT_001\obj\x86\Debug\AKMT_001.csproj.GenerateResource.Cache

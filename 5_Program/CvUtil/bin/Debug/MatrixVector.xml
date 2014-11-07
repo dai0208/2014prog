@@ -1,0 +1,1132 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MatrixVector</name>
+    </assembly>
+    <members>
+        <member name="T:MatrixVector.SquareMatrix">
+            <summary>
+            正方行列のクラス
+            </summary>
+        </member>
+        <member name="T:MatrixVector.Matrix">
+            <summary>
+            行列を扱うクラス
+            </summary>
+        </member>
+        <member name="F:MatrixVector.Matrix.Vectors">
+            <summary>
+            Matrixが保持しているベクトル（縦ベクトル）
+            </summary>
+        </member>
+        <member name="M:MatrixVector.Matrix.#ctor">
+            <summary>
+            空の行列を作成します（継承用）
+            </summary>
+        </member>
+        <member name="M:MatrixVector.Matrix.#ctor(System.Int32,System.Int32)">
+            <summary>
+            RowSize行×ColSize列の行列を作成します。値は全て0になります。
+            </summary>
+            <param name="RowSize">行数</param>
+            <param name="ColSize">列数</param>
+        </member>
+        <member name="M:MatrixVector.Matrix.#ctor(MatrixVector.Vector[])">
+            <summary>
+            与えられたベクトル配列から行列を作ります。
+            全てのベクトルは同じ大きさである必要があります。
+            与えられたベクトルは縦ベクトルとして扱われます。
+            </summary>
+            <param name="Vectors">ベクトル配列</param>
+        </member>
+        <member name="M:MatrixVector.Matrix.#ctor(MatrixVector.RowVector[])">
+            <summary>
+            与えられた横ベクトル配列から行列を作ります。
+            全てのベクトルは同じ大きさである必要があります。
+            </summary>
+            <param name="Vectors">横ベクトル配列</param>
+        </member>
+        <member name="M:MatrixVector.Matrix.#ctor(MatrixVector.ColumnVector[])">
+            <summary>
+            与えられた縦ベクトル配列から行列を作ります。
+            全てのベクトルは同じ大きさである必要があります。
+            </summary>
+            <param name="Vectors">縦ベクトル配列</param>
+        </member>
+        <member name="M:MatrixVector.Matrix.#ctor(System.Double[][])">
+            <summary>
+            与えられた配列から行列を作ります。
+            配列は同じ大きさである必要があります。
+            </summary>
+            <param name="DoubleArray">行列の元となる配列</param>
+        </member>
+        <member name="M:MatrixVector.Matrix.#ctor(MatrixVector.Matrix)">
+            <summary>
+            与えられた行列と同じ行列を作成します。
+            </summary>
+            <param name="matrix">コピー元となる行列</param>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetElement(System.Int32,System.Int32)">
+            <summary>
+            指定した行・列の要素を返します。
+            </summary>
+            <param name="Row">指定する行</param>
+            <param name="Col">指定する列</param>
+            <returns>要素の値</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.SetElement(System.Int32,System.Int32,System.Double)">
+            <summary>
+            指定した行・列の要素を設定します。
+            </summary>
+            <param name="Row">指定する行</param>
+            <param name="Col">指定する列</param>
+            <param name="Value">指定する値</param>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetColVector(System.Int32)">
+            <summary>
+            指定した0から始まるの列番号のベクトル要素を取得するメソッドです。
+            </summary>
+            <param name="Index">0から始まる列番号</param>
+            <returns>指定した列のベクトル要素</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetRowVector(System.Int32)">
+            <summary>
+            指定した0から始まるの行番号のベクトル要素を取得するメソッドです。
+            </summary>
+            <param name="Index">0から始まる行番号</param>
+            <returns>指定した行のベクトル要素</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.RemoveColumnElementAt(System.Int32)">
+            <summary>
+            指定した列インデックス要素を削除した行列を取得します
+            </summary>
+            <param name="ColumnIndex">削除する列インデックス</param>
+            <returns>指定した列インデックス要素を削除した行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.RemoveColumnElementRange(System.Int32,System.Int32)">
+            <summary>
+            指定した範囲の列要素を削除した行列を取得します
+            </summary>
+            <param name="StartIndex">削除開始列インデックス</param>
+            <param name="EndIndex">削除終了列インデックス</param>
+            <returns>指定した範囲の列要素を削除した行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.RemoveColumnElementToEnd(System.Int32)">
+            <summary>
+            指定した開始列から最後までの列要素を削除した行列を取得します
+            </summary>
+            <param name="StartIndex">削除開始列インデックス</param>
+            <returns>指定した範囲の列要素を削除した行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.RemoveColumnElementFromStart(System.Int32)">
+            <summary>
+            指定した終了列までの列要素を削除した行列を取得します
+            </summary>
+            <param name="EndIndex">削除終了列インデックス</param>
+            <returns>指定した範囲の列要素を削除した行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.RemoveRowElemntAt(System.Int32)">
+            <summary>
+            指定した行インデックス要素を削除した行列を取得します
+            </summary>
+            <param name="RowIndex">削除する行インデックス</param>
+            <returns>指定した行インデックス要素を削除した行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.RemoveRowElementRange(System.Int32,System.Int32)">
+            <summary>
+            指定した範囲の行要素を削除した行列を取得します
+            </summary>
+            <param name="StartIndex">削除開始行インデックス</param>
+            <param name="EndIndex">削除終了行インデックス</param>
+            <returns>指定した範囲の行要素を削除した行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.RemoveRowElementToEnd(System.Int32)">
+            <summary>
+            指定した開始行から最後までの行要素を削除した行列を取得します
+            </summary>
+            <param name="StartIndex">削除開始行インデックス</param>
+            <returns>指定した範囲の行要素を削除した行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.RemoveRowElementFromStart(System.Int32)">
+            <summary>
+            指定した終了行までの行要素を削除した行列を取得します
+            </summary>
+            <param name="EndIndex">削除終了行インデックス</param>
+            <returns>指定した範囲の行要素を削除した行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.InsertRowVectorAt(System.Int32,MatrixVector.RowVector)">
+            <summary>
+            指定した横ベクトルを指定した位置に挿入します
+            </summary>
+            <param name="Index">0から始まるインデックス</param>
+            <param name="RowVector">挿入する縦ベクトル</param>
+            <returns>指定したベクトルが挿入された行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.InsertRowVectorAtEnd(MatrixVector.RowVector)">
+            <summary>
+            指定した横ベクトルを最後に挿入します
+            </summary>
+            <param name="RowVector">挿入する縦ベクトル</param>
+            <returns>指定したベクトルが挿入された行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.InsertRowVectorAtStart(MatrixVector.RowVector)">
+            <summary>
+            指定した横ベクトルを最初に挿入します
+            </summary>
+            <param name="RowVector">挿入する縦ベクトル</param>
+            <returns>指定したベクトルが挿入された行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.InsertColumnVectorAt(System.Int32,MatrixVector.ColumnVector)">
+            <summary>
+            指定した縦ベクトルを指定した位置に挿入します
+            </summary>
+            <param name="Index">0から始まるインデックス</param>
+            <param name="ColumnVector">挿入する横ベクトル</param>
+            <returns>指定したベクトルが挿入された行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.InsertColumnVectorAtEnd(MatrixVector.ColumnVector)">
+            <summary>
+            指定した縦ベクトルを最後に挿入します
+            </summary>
+            <param name="ColumnVector">挿入する横ベクトル</param>
+            <returns>指定したベクトルが挿入された行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.InsertColumnVectorAtStart(MatrixVector.ColumnVector)">
+            <summary>
+            指定した縦ベクトルを最初に挿入します
+            </summary>
+            <param name="ColumnVector">挿入する横ベクトル</param>
+            <returns>指定したベクトルが挿入された行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.InsertMatrixAtRowIndex(System.Int32,MatrixVector.Matrix)">
+            <summary>
+            指定した行の位置に行列を挿入します
+            </summary>
+            <param name="RowIndex">0から始まる行のインデックス</param>
+            <param name="Matrix">挿入する行列</param>
+            <returns>指定した行位置に行列を挿入された行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.InsertMatrixAtRowEnd(MatrixVector.Matrix)">
+            <summary>
+            最終行に指定した行列を挿入します
+            </summary>
+            <param name="Matrix">挿入する行列</param>
+            <returns>最終行に指定した行列が挿入された行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.InsertMatrixAtRowStart(MatrixVector.Matrix)">
+            <summary>
+            行列の最初の行に指定した行列を挿入します
+            </summary>
+            <param name="Matrix">挿入する行列</param>
+            <returns>初行に指定した行列が挿入された行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.InsertMatrixAtColumnIndex(System.Int32,MatrixVector.Matrix)">
+            <summary>
+            指定した列位置に行列を挿入します
+            </summary>
+            <param name="ColumnIndex">0から始まる列のインデックス</param>
+            <param name="Matrix">挿入する行列</param>
+            <returns>指定した列位置に行列を挿入した行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.InsertMatrixAtColumnEnd(MatrixVector.Matrix)">
+            <summary>
+            最終列に指定した行列を挿入します
+            </summary>
+            <param name="Matrix">挿入する行列</param>
+            <returns>最終列に指定した行列が挿入された行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.InsertMatrixAtColumnStart(MatrixVector.Matrix)">
+            <summary>
+            行列の最初の列に指定した行列を挿入します
+            </summary>
+            <param name="Matrix">挿入する行列</param>
+            <returns>初列に指定した行列が挿入された行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetMatrixColumnBetween(System.Int32,System.Int32)">
+            <summary>
+            指定された列範囲の部分行列を取得します
+            </summary>
+            <param name="StartColumnIndex">開始列</param>
+            <param name="EndColumnIndex">終了列</param>
+            <returns>指定された列範囲の部分行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetMatrixColumnToEnd(System.Int32)">
+            <summary>
+            指定した開始列から最終列までの部分行列を取得します
+            </summary>
+            <param name="StartColumnIndex">開始列</param>
+            <returns>指定した開始列から最終列までの部分行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetMatrixColumnFromStart(System.Int32)">
+            <summary>
+            指定した終了列までの部分行列を取得します
+            </summary>
+            <param name="EndColumnIndex">終了列</param>
+            <returns>指定した終了列までの部分行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetMatrixRowBetween(System.Int32,System.Int32)">
+            <summary>
+            指定された行範囲の部分行列を取得します
+            </summary>
+            <param name="StartRowIndex">開始行</param>
+            <param name="EndRowIndex">終了行</param>
+            <returns>指定された行範囲の部分行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetMatrixRowToEnd(System.Int32)">
+            <summary>
+            指定された開始行から最終行までの部分行列を取得します
+            </summary>
+            <param name="StartRowIndex">開始行</param>
+            <returns>指定された開始行から最終行までの部分行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetMatrixRowFromStart(System.Int32)">
+            <summary>
+            指定された終了行までの部分行列を取得します
+            </summary>
+            <param name="EndRowIndex">終了行</param>
+            <returns>指定された終了行までの部分行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetTranspose">
+            <summary>
+            転置行列を取得します。
+            </summary>
+            <returns>転置された行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetAverageCol">
+            <summary>
+            列方向に平均を取った値をベクトルで取得します。
+            取得したベクトルは横ベクトルになります。
+            </summary>
+            <returns>列方向の平均ベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetAverageRow">
+            <summary>
+            行方向に平均を取った値をベクトルで取得します。
+            取得したベクトルは縦ベクトルになります。
+            </summary>
+            <returns>行方向の平均ベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetNormalizedMatrixCol">
+            <summary>
+            列方向のノルムを1にした行列を返します。
+            </summary>
+            <returns>列方向のノルムが1の行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetNormalizedMatrixRow">
+            <summary>
+            列方向のノルムを1にした行列を返します。
+            </summary>
+            <returns>列方向のノルムが1の行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetSameElementMatrix(MatrixVector.ColumnVector,System.Int32)">
+            <summary>
+            指定した個数の列ベクトルが並んだ行列を取得します。
+            主に平均ベクトルに対して使ったりします。
+            </summary>
+            <param name="Vector">列ベクトル</param>
+            <param name="Size">個数</param>
+            <returns>指定した個数の列ベクトルが並んだ行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetSameElementMatrix(MatrixVector.RowVector,System.Int32)">
+            <summary>
+            指定した個数の行ベクトルが並んだ行列を取得します。
+            主に平均ベクトルに対して使ったりします。
+            </summary>
+            <param name="Vector">行ベクトル</param>
+            <param name="Size">個数</param>
+            <returns>指定した個数の行ベクトルが並んだ行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.GetSameElementMatrix(MatrixVector.Vector,System.Int32)">
+            <summary>
+            指定した個数の行ベクトルが並んだ行列を取得します。
+            </summary>
+            <param name="Vector">ベクトル</param>
+            <param name="Size">個数</param>
+            <returns>指定した個数のベクトルが並んだ行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.op_Multiply(MatrixVector.Matrix,MatrixVector.Matrix)">
+            <summary>
+            行列と行列とのかけ算
+            </summary>
+            <param name="LeftMatrix">左からかける行列</param>
+            <param name="RightMatrix">右からかける行列</param>
+            <returns>答えの行列</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.ToString">
+            <summary>
+            現在の行数と列数を出力します
+            </summary>
+            <returns>「this.RowSize行 this.ColSize列」</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.SaveBinary(System.String)">
+            <summary>
+            このクラスをバイナリでセーブするメソッド
+            </summary>
+            <param name="strSaveFileName">セーブファイル名</param>
+            <returns>成功ならTrue</returns>
+        </member>
+        <member name="M:MatrixVector.Matrix.LoadBinary(System.String)">
+            <summary>
+            バイナリデータをロードするメソッド
+            </summary>
+            <param name="strLoadFileName">ロードファイル名</param>
+            <returns>ロードしたデータ</returns>
+        </member>
+        <member name="P:MatrixVector.Matrix.ColSize">
+            <summary>
+            列のサイズを取得します
+            </summary>
+        </member>
+        <member name="P:MatrixVector.Matrix.RowSize">
+            <summary>
+            行のサイズを取得します
+            </summary>
+        </member>
+        <member name="P:MatrixVector.Matrix.MatrixElements">
+            <summary>
+            行列の要素のコピーを取得します。
+            </summary>
+        </member>
+        <member name="P:MatrixVector.Matrix.Item(System.Int32,System.Int32)">
+            <summary>
+            行列の要素を0から始まるインデックスを指定して取得、設定します。
+            </summary>
+            <param name="Row">0から始まる行番号</param>
+            <param name="Col">0から始まる列番号</param>
+            <returns>指定された行列の要素</returns>
+        </member>
+        <member name="M:MatrixVector.SquareMatrix.#ctor">
+            <summary>
+            空の正方行列を作成します。
+            </summary>
+        </member>
+        <member name="M:MatrixVector.SquareMatrix.#ctor(MatrixVector.Vector[])">
+            <summary>
+            与えられたベクトル配列から正方行列を作成します。
+            </summary>
+            <param name="Vectors">ベクトル配列</param>
+        </member>
+        <member name="M:MatrixVector.SquareMatrix.#ctor(System.Double[][])">
+            <summary>
+            与えられた配列から正方行列を作成します。
+            </summary>
+            <param name="DoubleArray">配列</param>
+        </member>
+        <member name="M:MatrixVector.SquareMatrix.#ctor(MatrixVector.Matrix)">
+            <summary>
+            与えられた行列から正方行列を作成します。
+            </summary>
+            <param name="matrix">行列</param>
+        </member>
+        <member name="M:MatrixVector.SquareMatrix.#ctor(System.Int32)">
+            <summary>
+            与えられた次元数からなる正方行列を作成します。
+            </summary>
+            <param name="Dimension">次元数</param>
+        </member>
+        <member name="M:MatrixVector.SquareMatrix.GetEigenVectorAndValue(System.Double)">
+            <summary>
+            許容相対誤差を指定して固有ベクトルと固有値を取得します。
+            このメソッドはオーバーライド、もしくは個別に実装して下さい。
+            </summary>
+            <param name="EPS">許容相対誤差</param>
+            <returns>固有ベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.SquareMatrix.GetEigenVectorAndValue">
+            <summary>
+            デフォルトの許容相対誤差で固有ベクトルと固有値を取得します。
+            </summary>
+            <returns>固有ベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.SquareMatrix.IdentityMatrix(System.Int32)">
+            <summary>
+            指定した階数の単位行列を取得します。
+            </summary>
+            <param name="Rank">階数</param>
+            <returns>単位行列</returns>
+        </member>
+        <member name="P:MatrixVector.SquareMatrix.Dimension">
+            <summary>
+            行列の次元数を取得します。
+            </summary>
+        </member>
+        <member name="T:MatrixVector.Vector">
+            <summary>
+            ベクトルのクラス（縦横を明確にしたい場合はRowVector,ColumnVectorを利用して下さい）
+            </summary>
+        </member>
+        <member name="F:MatrixVector.Vector.element">
+            <summary>
+            ベクトルの要素
+            </summary>
+        </member>
+        <member name="F:MatrixVector.Vector.Tag">
+            <summary>
+            汎用的なデータ
+            </summary>
+        </member>
+        <member name="M:MatrixVector.Vector.#ctor">
+            <summary>
+            空のベクトルのインスタンスを作成します。
+            </summary>
+        </member>
+        <member name="M:MatrixVector.Vector.#ctor(System.Int32)">
+            <summary>
+            指定された次元数のベクトルを作成します。値は全て0になります。
+            </summary>
+            <param name="ElementSize">ベクトルの次元数</param>
+        </member>
+        <member name="M:MatrixVector.Vector.#ctor(System.Double[])">
+            <summary>
+            与えられた要素を持つベクトルを作成します。
+            </summary>
+            <param name="Element">要素の配列</param>
+        </member>
+        <member name="M:MatrixVector.Vector.#ctor(MatrixVector.Vector)">
+            <summary>
+            与えられたベクトルと同一のベクトルを作成します。
+            </summary>
+            <param name="vector">コピー元のベクトル</param>
+        </member>
+        <member name="M:MatrixVector.Vector.#ctor(System.Double,System.Int32)">
+            <summary>
+            与えられた次元数のベクトルを作成します。値は全てValueになります。
+            </summary>
+            <param name="Value">値</param>
+            <param name="Size">次元数</param>
+        </member>
+        <member name="M:MatrixVector.Vector.#ctor(MatrixVector.Vector[])">
+            <summary>
+            複数のベクトルを連結したベクトルを作成します。
+            </summary>
+            <param name="Vectors">ベクトル</param>
+        </member>
+        <member name="M:MatrixVector.Vector.#ctor(MatrixVector.Vector,System.Double[])">
+            <summary>
+            ベクトルの後ろにスカラーを追加します
+            </summary>
+            <param name="Vector">ベクトル</param>
+            <param name="Scalar">スカラー</param>
+        </member>
+        <member name="M:MatrixVector.Vector.#ctor(System.Double[],MatrixVector.Vector)">
+            <summary>
+            スカラー配列をベクトルの前に追加します
+            </summary>
+            <param name="Scalar">スカラー配列</param>
+            <param name="Vector">ベクトル</param>
+        </member>
+        <member name="M:MatrixVector.Vector.GetAverage">
+            <summary>
+            ベクトルの要素の平均を取得します。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetNorm">
+            <summary>
+            ベクトルのノルムを取得するメソッドです。
+            </summary>
+            <returns>ノルム</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetSampleVariance">
+            <summary>
+            標本分散を取得するメソッドです。
+            </summary>
+            <returns>標本分散</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetUnbiasedVariance">
+            <summary>
+            不偏分散を取得するメソッドです。
+            </summary>
+            <returns>不偏分散</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetStandardDeviation">
+            <summary>
+            標準偏差を取得するメソッドです。
+            </summary>
+            <returns>標準偏差</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetNormlizeVector">
+            <summary>
+            正規化したベクトルを取得するメソッドです。
+            </summary>
+            <returns>正規化されたベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetMedian">
+            <summary>
+            中央値を取得するメソッドです。偶数個の場合は中央要素の平均を返します。
+            </summary>
+            <returns>中央値</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetMax">
+            <summary>
+            最大値を取得するメソッドです。
+            </summary>
+            <returns>最大値</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetMaxWithIndex">
+            <summary>
+            最大値とそのインデックスを取得するメソッドです。
+            </summary>
+            <returns>最大値とインデックス</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetMin">
+            <summary>
+            最小値を取得するメソッドです。
+            </summary>
+            <returns>最小値</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetMinWithIndex">
+            <summary>
+            最小値とそのインデックスを取得するメソッドです。
+            </summary>
+            <returns>最小値とインデックス</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetSum">
+            <summary>
+            ベクトルの要素の合計を取得します。
+            </summary>
+            <returns>ベクトルの要素の合計</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetUpperIndex(System.Double)">
+            <summary>
+            Valueよりも大きい値を持つ要素のインデックスを取得するメソッドです。
+            </summary>
+            <param name="Value">閾値</param>
+            <returns>Valueよりも大きい値を持つ要素のインデックス</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetLowerIndex(System.Double)">
+            <summary>
+            Valueよりも小さい値を持つ要素のインデックスを取得するメソッドです。
+            </summary>
+            <param name="Value">閾値</param>
+            <returns>Valueよりも小さい値を持つ要素のインデックス</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetEqualIndex(System.Double)">
+            <summary>
+            Valueと等しい値を持つ要素のインデックスを取得するメソッドです。
+            </summary>
+            <param name="Value">閾値</param>
+            <returns>Valueと等しい値を持つ要素のインデックス</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetDifferential">
+            <summary>
+            ベクトルの微分を取得するメソッドです。
+            </summary>
+            <returns>微分値ベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetSeparatedVector(System.Int32)">
+            <summary>
+            ベクトルを指定した個数の要素ベクトルに分割するメソッドです。
+            </summary>
+            <param name="Length">分割後のベクトルの要素数</param>
+            <returns>指定した要素数に分割されたベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.Multiply(MatrixVector.Vector,MatrixVector.Vector)">
+            <summary>
+            ベクトルの『要素毎』のかけ算です（内積ではありません）内積は『InnerProduct』で求めて下さい。
+            </summary>
+            <param name="LeftVector">最初のベクトル</param>
+            <param name="RightVector">二個目のベクトル</param>
+            <returns>『要素毎』にかけ算されたベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.InnerProduct(MatrixVector.Vector)">
+            <summary>
+            指定したベクトルとの内積を求めます。ベクトルの次元数は等しくないとエラーが発生します。
+            </summary>
+            <param name="Vector">内積を求めるための対象となるベクトル</param>
+            <returns>内積</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetVectorBetween(System.Int32,System.Int32)">
+            <summary>
+            指定された範囲の部分ベクトルを取得します
+            </summary>
+            <param name="StartIndex">開始位置</param>
+            <param name="EndIndex">終了位置</param>
+            <returns>部分ベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetVectorToEnd(System.Int32)">
+            <summary>
+            指定した開始位置からベクトルの最後までの部分ベクトルを取得します
+            </summary>
+            <param name="Start">開始位置</param>
+            <returns>部分ベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.GetVectorFromStart(System.Int32)">
+            <summary>
+            ベクトルの最初から指定した終了位置までの部分ベクトルを取得します
+            </summary>
+            <param name="End">終了位置</param>
+            <returns>部分ベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.InsertAt(System.Int32,System.Double)">
+            <summary>
+            指定した場所にスカラー値を挿入します
+            </summary>
+            <param name="Index">0から始まる挿入位置</param>
+            <param name="Scalar">スカラー値</param>
+            <returns>値が挿入されたベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.InsertAt(System.Int32,MatrixVector.Vector)">
+            <summary>
+            指定した場所にベクトルを挿入します
+            </summary>
+            <param name="Index">0から始まる挿入位置</param>
+            <param name="Vector">ベクトル</param>
+            <returns>ベクトルが挿入されたベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.InsertAtEnd(System.Double)">
+            <summary>
+            ベクトルの最後にスカラー値を追加します
+            </summary>
+            <param name="Scalar">スカラー値</param>
+            <returns>値が挿入されたベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.InsertAtEnd(MatrixVector.Vector)">
+            <summary>
+            ベクトルの最後にベクトルを追加します
+            </summary>
+            <param name="Vector">ベクトル</param>
+            <returns>ベクトルが挿入されたベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.InsertAtStart(System.Double)">
+            <summary>
+            ベクトルの最初にスカラー値を追加します
+            </summary>
+            <param name="Scalar">スカラー値</param>
+            <returns>値が挿入されたベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.InsertAtStart(MatrixVector.Vector)">
+            <summary>
+            ベクトルの最初にベクトルを追加します
+            </summary>
+            <param name="Vector">ベクトル</param>
+            <returns>ベクトルが挿入されたベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.RemoveElementAt(System.Int32[])">
+            <summary>
+            指定されたインデックス配列の要素を削除したベクトルを取得します。
+            インデックスは配列でなく1個(ただのint型)でも大丈夫です。
+            </summary>
+            <param name="Index">削除する要素のインデックス配列</param>
+            <returns>指定されたインデックス配列の要素を削除したベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.RemoveRange(System.Int32,System.Int32)">
+            <summary>
+            指定した範囲の要素を削除したベクトルを取得します
+            </summary>
+            <param name="StartIndex">開始位置</param>
+            <param name="EndIndex">終了位置</param>
+            <returns>指定した範囲の要素を削除したベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.RemoveToEnd(System.Int32)">
+            <summary>
+            指定した位置から最後までの要素を削除したベクトルを取得します
+            </summary>
+            <param name="StartIndex">削除を開始する要素のインデックス</param>
+            <returns>指定した位置から最後までの要素を削除したベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.RemoveFromStart(System.Int32)">
+            <summary>
+            指定した位置までの要素を削除したベクトルを取得します
+            </summary>
+            <param name="EndIndex">削除を終了する要素のインデックス</param>
+            <returns>指定した位置までの要素を削除したベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.ToString">
+            <summary>
+            ベクトルの要素を10個まで出力します。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MatrixVector.Vector.ToString(System.Int32)">
+            <summary>
+            指定された個数までのベクトル要素を出力するメソッドです。
+            </summary>
+            <param name="Size">出力する要素数</param>
+            <returns> ベクトル要素</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.Save(System.String)">
+            <summary>
+            ベクトルを指定したファイル名に保存します。
+            </summary>
+            <param name="SaveFileName">保存ファイル名</param>
+        </member>
+        <member name="M:MatrixVector.Vector.Load(System.String)">
+            <summary>
+            ベクトルファイルを指定したファイルから読み込みます
+            </summary>
+            <param name="LoadFileName">読み込みファイル名</param>
+        </member>
+        <member name="M:MatrixVector.Vector.SaveBinary(System.String)">
+            <summary>
+            このクラスをバイナリでセーブするメソッド
+            </summary>
+            <param name="strSaveFileName">セーブファイル名</param>
+            <returns>成功ならTrue</returns>
+        </member>
+        <member name="M:MatrixVector.Vector.LoadBinary(System.String)">
+            <summary>
+            バイナリデータをロードするメソッド
+            </summary>
+            <param name="strLoadFileName">ロードファイル名</param>
+            <returns>ロードしたデータ</returns>
+        </member>
+        <member name="P:MatrixVector.Vector.Length">
+            <summary>
+            ベクトルの要素数を取得します。
+            </summary>
+        </member>
+        <member name="P:MatrixVector.Vector.Item(System.Int32)">
+            <summary>
+            ベクトルの要素を設定、取得します。
+            </summary>
+            <param name="index">インデックス</param>
+            <returns>ベクトル要素</returns>
+        </member>
+        <member name="P:MatrixVector.Vector.VectorElement">
+            <summary>
+            ベクトルの要素を設定、取得します。
+            </summary>
+        </member>
+        <member name="P:MatrixVector.Vector.TagData">
+            <summary>
+            汎用的なデータを取得、設定します。
+            </summary>
+        </member>
+        <member name="T:MatrixVector.RowVector">
+            <summary>
+            横（行方向）ベクトルのクラス
+            </summary>
+        </member>
+        <member name="M:MatrixVector.RowVector.#ctor(MatrixVector.Vector)">
+            <summary>
+            与えられたベクトルと同一の横ベクトルを作成します。
+            </summary>
+            <param name="Vector">コピー元のベクトル</param>
+        </member>
+        <member name="M:MatrixVector.RowVector.#ctor(MatrixVector.RowVector)">
+            <summary>
+            与えられたベクトルと同一の横ベクトルを作成します。
+            </summary>
+            <param name="Vector">コピー元のベクトル</param>
+        </member>
+        <member name="M:MatrixVector.RowVector.#ctor(System.Double[])">
+            <summary>
+            与えられた要素を持つ横ベクトルを作成します。
+            </summary>
+            <param name="Element">要素の配列</param>
+        </member>
+        <member name="M:MatrixVector.RowVector.#ctor(System.Int32)">
+            <summary>
+            指定された次元数の横ベクトルを作成します。値は全て0になります。
+            </summary>
+            <param name="ElementSize">ベクトルの次元数</param>
+        </member>
+        <member name="M:MatrixVector.RowVector.#ctor(System.Double,System.Int32)">
+            <summary>
+            与えられた次元数の横ベクトルを作成します。値は全てValueになります。
+            </summary>
+            <param name="Value">値</param>
+            <param name="ElementSize">次元数</param>
+        </member>
+        <member name="M:MatrixVector.RowVector.#ctor">
+            <summary>
+            空の横ベクトルのインスタンスを作成します。
+            </summary>
+        </member>
+        <member name="M:MatrixVector.RowVector.GetNormlizeVector">
+            <summary>
+            正規化したベクトルを取得するメソッドです。
+            </summary>
+            <returns>正規化されたベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.RowVector.InnerProduct(MatrixVector.RowVector)">
+            <summary>
+            指定したベクトルとの内積を求めます。ベクトルの次元数は等しくないとエラーが発生します。
+            </summary>
+            <param name="Vector">内積を求めるための対象となるベクトル</param>
+            <returns>内積</returns>
+        </member>
+        <member name="M:MatrixVector.RowVector.LoadBinary(System.String)">
+            <summary>
+            バイナリデータをロードするメソッド
+            </summary>
+            <param name="strLoadFileName">ロードファイル名</param>
+            <returns>ロードしたデータ</returns>
+        </member>
+        <member name="F:MatrixVector.ValueAndIndex._Value">
+            <summary>
+            値
+            </summary>
+        </member>
+        <member name="F:MatrixVector.ValueAndIndex._Index">
+            <summary>
+            インデックス
+            </summary>
+        </member>
+        <member name="M:MatrixVector.ValueAndIndex.#ctor(System.Double,System.Int32)">
+            <summary>
+            指定された値とインデックスを保持する構造体を作成します。
+            </summary>
+            <param name="Value">値</param>
+            <param name="Index">インデックス</param>
+        </member>
+        <member name="M:MatrixVector.ValueAndIndex.ToString">
+            <summary>
+            現在の値とインデックスを出力します。
+            </summary>
+            <returns>現在の値とインデックス</returns>
+        </member>
+        <member name="P:MatrixVector.ValueAndIndex.Value">
+            <summary>
+            値を取得、設定します。
+            </summary>
+        </member>
+        <member name="P:MatrixVector.ValueAndIndex.Index">
+            <summary>
+            インデックスを取得、設定します。
+            </summary>
+        </member>
+        <member name="P:MatrixVector.ValueAndIndex.SortOder">
+            <summary>
+            ソートの順番を取得、設定します。
+            </summary>
+        </member>
+        <member name="T:MatrixVector.ValueAndIndex.SortDirection">
+            <summary>
+            データソート順番の指定列挙型
+            </summary>
+        </member>
+        <member name="T:MatrixVector.ColumnVector">
+            <summary>
+            縦（列方向）ベクトルのクラス
+            </summary>
+        </member>
+        <member name="M:MatrixVector.ColumnVector.#ctor(MatrixVector.Vector)">
+            <summary>
+            与えられたベクトルと同一の横ベクトルを作成します。
+            </summary>
+            <param name="Vector">コピー元のベクトル</param>
+        </member>
+        <member name="M:MatrixVector.ColumnVector.#ctor(MatrixVector.RowVector)">
+            <summary>
+            与えられたベクトルと同一の横ベクトルを作成します。
+            </summary>
+            <param name="Vector">コピー元のベクトル</param>
+        </member>
+        <member name="M:MatrixVector.ColumnVector.#ctor(System.Double[])">
+            <summary>
+            与えられた要素を持つ横ベクトルを作成します。
+            </summary>
+            <param name="Element">要素の配列</param>
+        </member>
+        <member name="M:MatrixVector.ColumnVector.#ctor(System.Int32)">
+            <summary>
+            指定された次元数の横ベクトルを作成します。値は全て0になります。
+            </summary>
+            <param name="ElementSize">ベクトルの次元数</param>
+        </member>
+        <member name="M:MatrixVector.ColumnVector.#ctor(System.Double,System.Int32)">
+            <summary>
+            与えられた次元数の横ベクトルを作成します。値は全てValueになります。
+            </summary>
+            <param name="Value">値</param>
+            <param name="ElementSize">次元数</param>
+        </member>
+        <member name="M:MatrixVector.ColumnVector.#ctor">
+            <summary>
+            空の横ベクトルのインスタンスを作成します。
+            </summary>
+        </member>
+        <member name="M:MatrixVector.ColumnVector.GetNormlizeVector">
+            <summary>
+            正規化したベクトルを取得するメソッドです。
+            </summary>
+            <returns>正規化されたベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.ColumnVector.InnerProduct(MatrixVector.ColumnVector)">
+            <summary>
+            指定したベクトルとの内積を求めます。ベクトルの次元数は等しくないとエラーが発生します。
+            </summary>
+            <param name="Vector">内積を求めるための対象となるベクトル</param>
+            <returns>内積</returns>
+        </member>
+        <member name="M:MatrixVector.ColumnVector.LoadBinary(System.String)">
+            <summary>
+            バイナリデータをロードするメソッド
+            </summary>
+            <param name="strLoadFileName">ロードファイル名</param>
+            <returns>ロードしたデータ</returns>
+        </member>
+        <member name="T:MatrixVector.EigenSystem">
+            <summary>
+            固有値と固有ベクトルのリストを保持するクラス
+            </summary>
+        </member>
+        <member name="F:MatrixVector.EigenSystem.EigenListData">
+            <summary>
+            固有値と固有ベクトルのリスト
+            </summary>
+        </member>
+        <member name="M:MatrixVector.EigenSystem.#ctor">
+            <summary>
+            固有値と固有ベクトルのリストを保持するクラスを作成します。
+            </summary>
+        </member>
+        <member name="M:MatrixVector.EigenSystem.#ctor(MatrixVector.EigenSystem)">
+            <summary>
+            コピーコンストラクタ
+            </summary>
+            <param name="EigenSystemData">コピー元</param>
+        </member>
+        <member name="M:MatrixVector.EigenSystem.Add(MatrixVector.EigenVectorAndValue)">
+            <summary>
+            固有値、固有ベクトルのリストにデータを加えます
+            追加したデータは固有値が大きい順にソートされます。
+            </summary>
+            <param name="EigenData">固有値、固有ベクトルデータ</param>
+        </member>
+        <member name="M:MatrixVector.EigenSystem.RemoveAt(System.Int32)">
+            <summary>
+            固有値、固有ベクトルのリストからデータを削除します
+            </summary>
+            <param name="index">削除するデータのインデックス</param>
+        </member>
+        <member name="M:MatrixVector.EigenSystem.GetEigenVectors">
+            <summary>
+            全ての固有ベクトルを行列形式で取得します。
+            </summary>
+            <returns>全ての固有ベクトル</returns>
+        </member>
+        <member name="P:MatrixVector.EigenSystem.Item(System.Int32)">
+            <summary>
+            固有値、固有ベクトルのデータを取得、設定します。
+            </summary>
+            <param name="index">インデックス</param>
+            <returns>固有値、固有ベクトルデータ</returns>
+        </member>
+        <member name="P:MatrixVector.EigenSystem.Count">
+            <summary>
+            固有値、固有ベクトルのリストの大きさを取得します。
+            </summary>
+        </member>
+        <member name="T:MatrixVector.SymmetricMatrix">
+            <summary>
+            対称行列のクラス
+            </summary>
+        </member>
+        <member name="M:MatrixVector.SymmetricMatrix.#ctor">
+            <summary>
+            空の対称行列を作成します
+            </summary>
+        </member>
+        <member name="M:MatrixVector.SymmetricMatrix.#ctor(MatrixVector.Vector[])">
+            <summary>
+            与えられたベクトル配列から対称行列を作成します
+            </summary>
+            <param name="Vectors">ベクトル配列</param>
+        </member>
+        <member name="M:MatrixVector.SymmetricMatrix.#ctor(System.Double[][])">
+            <summary>
+            与えられた配列から対称行列を作成します。
+            </summary>
+            <param name="DoubleArray">行列の元となる配列</param>
+        </member>
+        <member name="M:MatrixVector.SymmetricMatrix.#ctor(MatrixVector.Matrix)">
+            <summary>
+            与えられた行列から対称行列を作成します。
+            </summary>
+            <param name="matrix">行列</param>
+        </member>
+        <member name="M:MatrixVector.SymmetricMatrix.#ctor(MatrixVector.SymmetricMatrix)">
+            <summary>
+            与えられた対称行列と同一の対称行列を作成します。
+            </summary>
+            <param name="matrix">コピー元の対称行列</param>
+        </member>
+        <member name="M:MatrixVector.SymmetricMatrix.#ctor(System.Int32)">
+            <summary>
+            与えられた次元数からなる対称行列を作成します。
+            </summary>
+            <param name="Dimension"></param>
+        </member>
+        <member name="M:MatrixVector.SymmetricMatrix.CheckElement">
+            <summary>
+            現在の行列が対称行列かを調べます。
+            </summary>
+            <returns>Checkの結果</returns>
+        </member>
+        <member name="M:MatrixVector.SymmetricMatrix.GetEigenVectorAndValue(System.Double)">
+            <summary>
+            固有値と固有ベクトルを取得します。
+            </summary>
+            <param name="EPS">許容相対誤差</param>
+            <returns>固有値と固有ベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.SymmetricMatrix.GetMaxValue(System.Double[][],System.Int32@,System.Int32@)">
+            <summary>
+            指定された配列の中で絶対値が最大のものを取得します。
+            </summary>
+            <param name="WorkMatrix">探索する配列</param>
+            <param name="MaxRow">最大値の行</param>
+            <param name="MaxCol">最大値の列</param>
+            <returns>最大値</returns>
+        </member>
+        <member name="T:MatrixVector.EigenVectorAndValue">
+            <summary>
+            固有値と固有ベクトルをセットで保持するクラス
+            </summary>
+        </member>
+        <member name="F:MatrixVector.EigenVectorAndValue.Vector">
+            <summary>
+            固有ベクトル
+            </summary>
+        </member>
+        <member name="F:MatrixVector.EigenVectorAndValue.Value">
+            <summary>
+            固有値
+            </summary>
+        </member>
+        <member name="M:MatrixVector.EigenVectorAndValue.#ctor(MatrixVector.Vector,System.Double)">
+            <summary>
+            与えられた固有ベクトルと固有値からクラスを作成します
+            </summary>
+            <param name="EigenVector">固有ベクトル</param>
+            <param name="EigenValue">固有値</param>
+        </member>
+        <member name="M:MatrixVector.EigenVectorAndValue.#ctor(MatrixVector.EigenVectorAndValue)">
+            <summary>
+            コピーコンストラクタ
+            </summary>
+            <param name="BaseData">コピー元データ</param>
+        </member>
+        <member name="M:MatrixVector.EigenVectorAndValue.Normlize">
+            <summary>
+            固有ベクトルの大きさを正規化するメソッドです。
+            </summary>
+        </member>
+        <member name="M:MatrixVector.EigenVectorAndValue.ToString">
+            <summary>
+            固有値と固有ベクトルを出力します。
+            </summary>
+            <returns>固有値と固有ベクトル</returns>
+        </member>
+        <member name="M:MatrixVector.EigenVectorAndValue.CompareTo(System.Object)">
+            <summary>
+            固有値の大きい順番に並べるための値を返します。
+            </summary>
+            <param name="obj">EigenVectorAndValue</param>
+            <returns>固有値が大きければ正の値</returns>
+        </member>
+        <member name="P:MatrixVector.EigenVectorAndValue.EigenVector">
+            <summary>
+            固有ベクトルを取得します。
+            </summary>
+        </member>
+        <member name="P:MatrixVector.EigenVectorAndValue.EigenValue">
+            <summary>
+            固有値を取得します。
+            </summary>
+        </member>
+    </members>
+</doc>
